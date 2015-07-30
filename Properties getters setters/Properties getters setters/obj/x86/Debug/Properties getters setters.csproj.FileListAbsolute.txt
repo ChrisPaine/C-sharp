@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\Properties getters setters\bin\Debug\Properties getters setters.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\Properties getters setters\bin\Debug\Properties getters setters.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\Properties getters setters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\Properties getters setters\obj\x86\Debug\Properties_getters_setters.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\Properties getters setters\obj\x86\Debug\Properties_getters_setters.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\Properties getters setters\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\Properties getters setters\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\Properties getters setters\obj\x86\Debug\Properties getters setters.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\Properties getters setters\obj\x86\Debug\Properties getters setters.pdb

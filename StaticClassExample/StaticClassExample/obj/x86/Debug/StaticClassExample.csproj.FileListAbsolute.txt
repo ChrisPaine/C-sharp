@@ -1,0 +1,5 @@
+\\DRIVEJ\Work\CHRIS\Coding\C#\WWW.vtc.com\StaticClassExample\StaticClassExample\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\WWW.vtc.com\StaticClassExample\StaticClassExample\obj\x86\Debug\StaticClassExample.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\WWW.vtc.com\StaticClassExample\StaticClassExample\obj\x86\Debug\StaticClassExample.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\WWW.vtc.com\StaticClassExample\StaticClassExample\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\WWW.vtc.com\StaticClassExample\StaticClassExample\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\Methods - By Val and By Ref pt 1\bin\Debug\Methods - By Val and By Ref pt 1.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\Methods - By Val and By Ref pt 1\bin\Debug\Methods - By Val and By Ref pt 1.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\Methods - By Val and By Ref pt 1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\Methods - By Val and By Ref pt 1\obj\x86\Debug\Methods___By_Val_and_By_Ref_pt_1.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\Methods - By Val and By Ref pt 1\obj\x86\Debug\Methods___By_Val_and_By_Ref_pt_1.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\Methods - By Val and By Ref pt 1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\Methods - By Val and By Ref pt 1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\Methods - By Val and By Ref pt 1\obj\x86\Debug\Methods - By Val and By Ref pt 1.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\Methods - By Val and By Ref pt 1\obj\x86\Debug\Methods - By Val and By Ref pt 1.pdb

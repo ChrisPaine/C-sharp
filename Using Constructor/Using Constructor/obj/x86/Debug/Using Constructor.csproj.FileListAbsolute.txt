@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\Using Constructor\bin\Debug\Using Constructor.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\Using Constructor\bin\Debug\Using Constructor.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\Using Constructor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\Using Constructor\obj\x86\Debug\Using_Constructor.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\Using Constructor\obj\x86\Debug\Using_Constructor.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\Using Constructor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\Using Constructor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\Using Constructor\obj\x86\Debug\Using Constructor.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\Using Constructor\obj\x86\Debug\Using Constructor.pdb

@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\FirstProgram\bin\Debug\FirstProgram.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\FirstProgram\bin\Debug\FirstProgram.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\FirstProgram\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\FirstProgram\obj\x86\Debug\FirstProgram.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\FirstProgram\obj\x86\Debug\FirstProgram.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\FirstProgram\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\FirstProgram\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\FirstProgram\obj\x86\Debug\FirstProgram.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\FirstProgram\obj\x86\Debug\FirstProgram.pdb

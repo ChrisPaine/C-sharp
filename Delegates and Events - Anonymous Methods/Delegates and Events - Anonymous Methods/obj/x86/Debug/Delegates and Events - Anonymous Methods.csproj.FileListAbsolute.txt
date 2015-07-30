@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\Delegates and Events - Anonymous Methods\bin\Debug\Delegates and Events - Anonymous Methods.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\Delegates and Events - Anonymous Methods\bin\Debug\Delegates and Events - Anonymous Methods.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\Delegates and Events - Anonymous Methods\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\Delegates and Events - Anonymous Methods\obj\x86\Debug\Delegates_and_Events___Anonymous_Methods.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\Delegates and Events - Anonymous Methods\obj\x86\Debug\Delegates_and_Events___Anonymous_Methods.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\Delegates and Events - Anonymous Methods\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\Delegates and Events - Anonymous Methods\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\Delegates and Events - Anonymous Methods\obj\x86\Debug\Delegates and Events - Anonymous Methods.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\Delegates and Events - Anonymous Methods\obj\x86\Debug\Delegates and Events - Anonymous Methods.pdb

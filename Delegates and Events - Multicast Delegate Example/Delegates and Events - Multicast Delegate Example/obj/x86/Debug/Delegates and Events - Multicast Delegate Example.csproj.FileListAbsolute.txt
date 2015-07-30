@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\Delegates and Events - Multicast Delegate Example\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\Delegates and Events - Multicast Delegate Example\obj\x86\Debug\Delegates_and_Events___Multicast_Delegate_Example.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\Delegates and Events - Multicast Delegate Example\obj\x86\Debug\Delegates_and_Events___Multicast_Delegate_Example.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\Delegates and Events - Multicast Delegate Example\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\Delegates and Events - Multicast Delegate Example\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\Delegates and Events - Multicast Delegate Example\bin\Debug\Delegates and Events - Multicast Delegate Example.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\Delegates and Events - Multicast Delegate Example\bin\Debug\Delegates and Events - Multicast Delegate Example.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\Delegates and Events - Multicast Delegate Example\obj\x86\Debug\Delegates and Events - Multicast Delegate Example.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\Delegates and Events - Multicast Delegate Example\obj\x86\Debug\Delegates and Events - Multicast Delegate Example.pdb
