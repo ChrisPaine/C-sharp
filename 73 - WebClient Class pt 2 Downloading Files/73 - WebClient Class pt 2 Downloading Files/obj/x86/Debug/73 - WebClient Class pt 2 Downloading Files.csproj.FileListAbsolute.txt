@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\73 - WebClient Class pt 2 Downloading Files\bin\Debug\73 - WebClient Class pt 2 Downloading Files.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\73 - WebClient Class pt 2 Downloading Files\bin\Debug\73 - WebClient Class pt 2 Downloading Files.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\73 - WebClient Class pt 2 Downloading Files\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\73 - WebClient Class pt 2 Downloading Files\obj\x86\Debug\_73___WebClient_Class_pt_2_Downloading_Files.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\73 - WebClient Class pt 2 Downloading Files\obj\x86\Debug\_73___WebClient_Class_pt_2_Downloading_Files.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\73 - WebClient Class pt 2 Downloading Files\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\73 - WebClient Class pt 2 Downloading Files\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\73 - WebClient Class pt 2 Downloading Files\obj\x86\Debug\73 - WebClient Class pt 2 Downloading Files.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\73 - WebClient Class pt 2 Downloading Files\obj\x86\Debug\73 - WebClient Class pt 2 Downloading Files.pdb

@@ -1,0 +1,16 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\08 If more prt3\bin\Debug\08 If more prt3.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\08 If more prt3\bin\Debug\08 If more prt3.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\08 If more prt3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\08 If more prt3\obj\x86\Debug\_08_If_more_prt3.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\08 If more prt3\obj\x86\Debug\_08_If_more_prt3.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\08 If more prt3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\08 If more prt3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\08 If more prt3\obj\x86\Debug\08 If more prt3.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\08 If more prt3\obj\x86\Debug\08 If more prt3.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\08 If more prt3\08 If more prt3\obj\x86\Debug\08 If more prt3.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\08 If more prt3\08 If more prt3\obj\x86\Debug\08 If more prt3.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\08 If more prt3\08 If more prt3\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\08 If more prt3\08 If more prt3\obj\x86\Debug\_08_If_more_prt3.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\08 If more prt3\08 If more prt3\obj\x86\Debug\_08_If_more_prt3.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\08 If more prt3\08 If more prt3\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\08 If more prt3\08 If more prt3\obj\x86\Debug\GenerateResource.write.1.tlog

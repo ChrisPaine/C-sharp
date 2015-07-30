@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\118 - Drag and Drop\bin\Debug\118 - Drag and Drop.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\118 - Drag and Drop\bin\Debug\118 - Drag and Drop.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\118 - Drag and Drop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\118 - Drag and Drop\obj\x86\Debug\_118___Drag_and_Drop.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\118 - Drag and Drop\obj\x86\Debug\_118___Drag_and_Drop.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\118 - Drag and Drop\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\118 - Drag and Drop\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\118 - Drag and Drop\obj\x86\Debug\118 - Drag and Drop.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\118 - Drag and Drop\obj\x86\Debug\118 - Drag and Drop.pdb

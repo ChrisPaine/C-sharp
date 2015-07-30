@@ -1,0 +1,8 @@
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\145 - Capturing Screen\145 - Capturing Screen\bin\Debug\145 - Capturing Screen.exe.config
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\145 - Capturing Screen\145 - Capturing Screen\obj\Debug\_145___Capturing_Screen.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\145 - Capturing Screen\145 - Capturing Screen\obj\Debug\_145___Capturing_Screen.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\145 - Capturing Screen\145 - Capturing Screen\obj\Debug\145 - Capturing Screen.csproj.GenerateResource.Cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\145 - Capturing Screen\145 - Capturing Screen\bin\Debug\145 - Capturing Screen.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\145 - Capturing Screen\145 - Capturing Screen\bin\Debug\145 - Capturing Screen.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\145 - Capturing Screen\145 - Capturing Screen\obj\Debug\145 - Capturing Screen.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\145 - Capturing Screen\145 - Capturing Screen\obj\Debug\145 - Capturing Screen.pdb

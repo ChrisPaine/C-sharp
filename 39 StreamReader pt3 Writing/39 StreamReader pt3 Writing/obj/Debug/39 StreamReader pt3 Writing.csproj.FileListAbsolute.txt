@@ -1,0 +1,12 @@
+C:\Users\cpaine\Desktop\SourceCode\39 StreamReader pt3 Writing\39 StreamReader pt3 Writing\bin\Debug\39 StreamReader pt3 Writing.exe.config
+C:\Users\cpaine\Desktop\SourceCode\39 StreamReader pt3 Writing\39 StreamReader pt3 Writing\bin\Debug\39 StreamReader pt3 Writing.exe
+C:\Users\cpaine\Desktop\SourceCode\39 StreamReader pt3 Writing\39 StreamReader pt3 Writing\bin\Debug\39 StreamReader pt3 Writing.pdb
+C:\Users\cpaine\Desktop\SourceCode\39 StreamReader pt3 Writing\39 StreamReader pt3 Writing\obj\Debug\39 StreamReader pt3 Writing.csprojResolveAssemblyReference.cache
+C:\Users\cpaine\Desktop\SourceCode\39 StreamReader pt3 Writing\39 StreamReader pt3 Writing\obj\Debug\_39_StreamReader_pt3_Writing.Form1.resources
+C:\Users\cpaine\Desktop\SourceCode\39 StreamReader pt3 Writing\39 StreamReader pt3 Writing\obj\Debug\_39_StreamReader_pt3_Writing.Properties.Resources.resources
+C:\Users\cpaine\Desktop\SourceCode\39 StreamReader pt3 Writing\39 StreamReader pt3 Writing\obj\Debug\39 StreamReader pt3 Writing.csproj.GenerateResource.Cache
+C:\Users\cpaine\Desktop\SourceCode\39 StreamReader pt3 Writing\39 StreamReader pt3 Writing\obj\Debug\39 StreamReader pt3 Writing.exe
+C:\Users\cpaine\Desktop\SourceCode\39 StreamReader pt3 Writing\39 StreamReader pt3 Writing\obj\Debug\39 StreamReader pt3 Writing.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\39 StreamReader pt3 Writing\39 StreamReader pt3 Writing\bin\Debug\39 StreamReader pt3 Writing.exe.config
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\39 StreamReader pt3 Writing\39 StreamReader pt3 Writing\obj\Debug\39 StreamReader pt3 Writing.exe
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\39 StreamReader pt3 Writing\39 StreamReader pt3 Writing\obj\Debug\39 StreamReader pt3 Writing.pdb

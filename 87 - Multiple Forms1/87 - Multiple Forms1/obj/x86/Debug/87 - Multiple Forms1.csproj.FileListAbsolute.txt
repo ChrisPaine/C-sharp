@@ -1,0 +1,9 @@
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\87 - Multiple Forms1\87 - Multiple Forms1\bin\Debug\87 - Multiple Forms1.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\87 - Multiple Forms1\87 - Multiple Forms1\bin\Debug\87 - Multiple Forms1.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\87 - Multiple Forms1\87 - Multiple Forms1\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\87 - Multiple Forms1\87 - Multiple Forms1\obj\x86\Debug\_87___Multiple_Forms.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\87 - Multiple Forms1\87 - Multiple Forms1\obj\x86\Debug\_87___Multiple_Forms.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\87 - Multiple Forms1\87 - Multiple Forms1\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\87 - Multiple Forms1\87 - Multiple Forms1\obj\x86\Debug\GenerateResource.write.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\87 - Multiple Forms1\87 - Multiple Forms1\obj\x86\Debug\87 - Multiple Forms1.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\87 - Multiple Forms1\87 - Multiple Forms1\obj\x86\Debug\87 - Multiple Forms1.pdb

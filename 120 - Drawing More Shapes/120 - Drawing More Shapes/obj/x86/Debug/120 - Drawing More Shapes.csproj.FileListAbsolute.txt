@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\120 - Drawing More Shapes\bin\Debug\120 - Drawing More Shapes.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\120 - Drawing More Shapes\bin\Debug\120 - Drawing More Shapes.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\120 - Drawing More Shapes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\120 - Drawing More Shapes\obj\x86\Debug\_120___Drawing_More_Shapes.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\120 - Drawing More Shapes\obj\x86\Debug\_120___Drawing_More_Shapes.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\120 - Drawing More Shapes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\120 - Drawing More Shapes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\120 - Drawing More Shapes\obj\x86\Debug\120 - Drawing More Shapes.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\120 - Drawing More Shapes\obj\x86\Debug\120 - Drawing More Shapes.pdb

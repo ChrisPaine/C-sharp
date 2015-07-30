@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\59 - Directory Class pt3\bin\Debug\59 - Directory Class pt3.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\59 - Directory Class pt3\bin\Debug\59 - Directory Class pt3.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\59 - Directory Class pt3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\59 - Directory Class pt3\obj\x86\Debug\_59___Directory_Class_pt3.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\59 - Directory Class pt3\obj\x86\Debug\_59___Directory_Class_pt3.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\59 - Directory Class pt3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\59 - Directory Class pt3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\59 - Directory Class pt3\obj\x86\Debug\59 - Directory Class pt3.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\59 - Directory Class pt3\obj\x86\Debug\59 - Directory Class pt3.pdb

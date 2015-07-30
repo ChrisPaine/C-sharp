@@ -1,0 +1,18 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\12 Lists\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\12 Lists\obj\x86\Debug\_12_Lists.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\12 Lists\obj\x86\Debug\_12_Lists.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\12 Lists\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\12 Lists\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\12 Lists\bin\Debug\12 Lists.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\12 Lists\bin\Debug\12 Lists.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\12 Lists\obj\x86\Debug\12 Lists.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\12 Lists\obj\x86\Debug\12 Lists.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\12 Lists\12 Lists\obj\x86\Debug\12 Lists.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\12 Lists\12 Lists\bin\Debug\12 Lists.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\12 Lists\12 Lists\bin\Debug\12 Lists.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\12 Lists\12 Lists\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\12 Lists\12 Lists\obj\x86\Debug\_12_Lists.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\12 Lists\12 Lists\obj\x86\Debug\_12_Lists.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\12 Lists\12 Lists\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\12 Lists\12 Lists\obj\x86\Debug\GenerateResource.write.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\12 Lists\12 Lists\obj\x86\Debug\12 Lists.pdb

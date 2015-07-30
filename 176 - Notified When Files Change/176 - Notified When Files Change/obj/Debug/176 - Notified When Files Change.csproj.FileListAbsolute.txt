@@ -1,0 +1,8 @@
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\176 - Notified When Files Change\176 - Notified When Files Change\bin\Debug\176 - Notified When Files Change.exe.config
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\176 - Notified When Files Change\176 - Notified When Files Change\bin\Debug\176 - Notified When Files Change.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\176 - Notified When Files Change\176 - Notified When Files Change\bin\Debug\176 - Notified When Files Change.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\176 - Notified When Files Change\176 - Notified When Files Change\obj\Debug\_176___Notified_When_Files_Change.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\176 - Notified When Files Change\176 - Notified When Files Change\obj\Debug\_176___Notified_When_Files_Change.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\176 - Notified When Files Change\176 - Notified When Files Change\obj\Debug\176 - Notified When Files Change.csproj.GenerateResource.Cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\176 - Notified When Files Change\176 - Notified When Files Change\obj\Debug\176 - Notified When Files Change.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\176 - Notified When Files Change\176 - Notified When Files Change\obj\Debug\176 - Notified When Files Change.pdb

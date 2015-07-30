@@ -1,0 +1,16 @@
+C:\Users\Chris\AppData\Local\Temporary Projects\27 Indexers\bin\Debug\27 Indexers.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\27 Indexers\bin\Debug\27 Indexers.pdb
+C:\Users\Chris\AppData\Local\Temporary Projects\27 Indexers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\AppData\Local\Temporary Projects\27 Indexers\obj\x86\Debug\_27_Indexers.Form1.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\27 Indexers\obj\x86\Debug\_27_Indexers.Properties.Resources.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\27 Indexers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\27 Indexers\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\27 Indexers\obj\x86\Debug\27 Indexers.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\27 Indexers\obj\x86\Debug\27 Indexers.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\27 Indexers\27 Indexers\obj\x86\Debug\27 Indexers.exe
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\27 Indexers\27 Indexers\obj\x86\Debug\27 Indexers.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\27 Indexers\27 Indexers\bin\Debug\27 Indexers.exe
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\27 Indexers\27 Indexers\bin\Debug\27 Indexers.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\27 Indexers\27 Indexers\obj\x86\Debug\_27_Indexers.Form1.resources
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\27 Indexers\27 Indexers\obj\x86\Debug\_27_Indexers.Properties.Resources.resources
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\27 Indexers\27 Indexers\obj\x86\Debug\27 Indexers.csproj.GenerateResource.Cache

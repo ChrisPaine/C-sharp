@@ -1,0 +1,7 @@
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\38 StreamReader pt3 Writing\38 StreamReader pt3 Writing\bin\Release\38 StreamReader pt3 Writing.exe
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\38 StreamReader pt3 Writing\38 StreamReader pt3 Writing\bin\Release\38 StreamReader pt3 Writing.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\38 StreamReader pt3 Writing\38 StreamReader pt3 Writing\obj\x86\Release\_38_StreamReader_pt3_Writing.Form1.resources
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\38 StreamReader pt3 Writing\38 StreamReader pt3 Writing\obj\x86\Release\_38_StreamReader_pt3_Writing.Properties.Resources.resources
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\38 StreamReader pt3 Writing\38 StreamReader pt3 Writing\obj\x86\Release\38 StreamReader pt3 Writing.csproj.GenerateResource.Cache
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\38 StreamReader pt3 Writing\38 StreamReader pt3 Writing\obj\x86\Release\38 StreamReader pt3 Writing.exe
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\38 StreamReader pt3 Writing\38 StreamReader pt3 Writing\obj\x86\Release\38 StreamReader pt3 Writing.pdb

@@ -1,0 +1,11 @@
+C:\Users\Chris\AppData\Local\Temporary Projects\24 Throwing an exceptions\bin\Debug\24 Throwing an exceptions.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\24 Throwing an exceptions\bin\Debug\24 Throwing an exceptions.pdb
+C:\Users\Chris\AppData\Local\Temporary Projects\24 Throwing an exceptions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\AppData\Local\Temporary Projects\24 Throwing an exceptions\obj\x86\Debug\_24_Throwing_an_exceptions.Form1.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\24 Throwing an exceptions\obj\x86\Debug\_24_Throwing_an_exceptions.Properties.Resources.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\24 Throwing an exceptions\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\24 Throwing an exceptions\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\24 Throwing an exceptions\obj\x86\Debug\24 Throwing an exceptions.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\24 Throwing an exceptions\obj\x86\Debug\24 Throwing an exceptions.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\24 Throwing an exceptions\24 Throwing an exceptions\obj\x86\Debug\24 Throwing an exceptions.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\24 Throwing an exceptions\24 Throwing an exceptions\obj\x86\Debug\24 Throwing an exceptions.pdb

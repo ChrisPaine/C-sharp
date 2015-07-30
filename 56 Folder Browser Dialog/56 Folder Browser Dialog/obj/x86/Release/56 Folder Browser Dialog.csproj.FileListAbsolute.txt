@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\56 Folder Browser Dialog\bin\Release\56 Folder Browser Dialog.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\56 Folder Browser Dialog\bin\Release\56 Folder Browser Dialog.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\56 Folder Browser Dialog\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\56 Folder Browser Dialog\obj\x86\Release\_56_Folder_Browser_Dialog.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\56 Folder Browser Dialog\obj\x86\Release\_56_Folder_Browser_Dialog.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\56 Folder Browser Dialog\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\56 Folder Browser Dialog\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\56 Folder Browser Dialog\obj\x86\Release\56 Folder Browser Dialog.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\56 Folder Browser Dialog\obj\x86\Release\56 Folder Browser Dialog.pdb

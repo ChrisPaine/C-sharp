@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\108 - TrackBar and NumericUpDown Controls\bin\Debug\108 - TrackBar and NumericUpDown Controls.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\108 - TrackBar and NumericUpDown Controls\bin\Debug\108 - TrackBar and NumericUpDown Controls.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\108 - TrackBar and NumericUpDown Controls\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\108 - TrackBar and NumericUpDown Controls\obj\x86\Debug\_108___TrackBar_and_NumericUpDown_Controls.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\108 - TrackBar and NumericUpDown Controls\obj\x86\Debug\_108___TrackBar_and_NumericUpDown_Controls.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\108 - TrackBar and NumericUpDown Controls\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\108 - TrackBar and NumericUpDown Controls\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\108 - TrackBar and NumericUpDown Controls\obj\x86\Debug\108 - TrackBar and NumericUpDown Controls.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\108 - TrackBar and NumericUpDown Controls\obj\x86\Debug\108 - TrackBar and NumericUpDown Controls.pdb

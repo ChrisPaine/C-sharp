@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\17 Method pt2\bin\Debug\17 Method pt2.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\17 Method pt2\bin\Debug\17 Method pt2.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\17 Method pt2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\17 Method pt2\obj\x86\Debug\_17_Method_pt2.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\17 Method pt2\obj\x86\Debug\_17_Method_pt2.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\17 Method pt2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\17 Method pt2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\17 Method pt2\obj\x86\Debug\17 Method pt2.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\17 Method pt2\obj\x86\Debug\17 Method pt2.pdb

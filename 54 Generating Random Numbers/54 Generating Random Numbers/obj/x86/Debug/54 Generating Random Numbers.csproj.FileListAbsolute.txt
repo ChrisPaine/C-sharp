@@ -1,0 +1,9 @@
+\\DRIVEJ\Work\CHRIS\Coding\C#\54 Generating Random Numbers\54 Generating Random Numbers\bin\Debug\54 Generating Random Numbers.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\54 Generating Random Numbers\54 Generating Random Numbers\bin\Debug\54 Generating Random Numbers.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\54 Generating Random Numbers\54 Generating Random Numbers\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\54 Generating Random Numbers\54 Generating Random Numbers\obj\x86\Debug\_54_Generating_Random_Numbers.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\54 Generating Random Numbers\54 Generating Random Numbers\obj\x86\Debug\_54_Generating_Random_Numbers.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\54 Generating Random Numbers\54 Generating Random Numbers\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\54 Generating Random Numbers\54 Generating Random Numbers\obj\x86\Debug\GenerateResource.write.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\54 Generating Random Numbers\54 Generating Random Numbers\obj\x86\Debug\54 Generating Random Numbers.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\54 Generating Random Numbers\54 Generating Random Numbers\obj\x86\Debug\54 Generating Random Numbers.pdb

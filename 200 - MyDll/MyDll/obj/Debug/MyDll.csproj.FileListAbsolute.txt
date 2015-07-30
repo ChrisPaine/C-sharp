@@ -1,0 +1,5 @@
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\MyDll\MyDll\bin\Debug\MyDll.dll
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\MyDll\MyDll\bin\Debug\MyDll.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\MyDll\MyDll\obj\Debug\MyDll.csprojResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\MyDll\MyDll\obj\Debug\MyDll.dll
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\MyDll\MyDll\obj\Debug\MyDll.pdb

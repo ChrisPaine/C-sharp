@@ -1,0 +1,1 @@
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\152 - Making Conversion Operators\152 - Making Conversion Operators\bin\Debug\152 - Making Conversion Operators.exe.config

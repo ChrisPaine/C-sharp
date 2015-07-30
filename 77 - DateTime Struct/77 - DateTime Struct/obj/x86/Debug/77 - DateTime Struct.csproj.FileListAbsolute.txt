@@ -1,0 +1,11 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\77 - DateTime Struct\bin\Debug\77 - DateTime Struct.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\77 - DateTime Struct\bin\Debug\77 - DateTime Struct.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\77 - DateTime Struct\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\77 - DateTime Struct\obj\x86\Debug\_77___DateTime_Struct.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\77 - DateTime Struct\obj\x86\Debug\_77___DateTime_Struct.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\77 - DateTime Struct\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\77 - DateTime Struct\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\77 - DateTime Struct\obj\x86\Debug\77 - DateTime Struct.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\77 - DateTime Struct\obj\x86\Debug\77 - DateTime Struct.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\77 - DateTime Struct\77 - DateTime Struct\obj\x86\Debug\77 - DateTime Struct.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\77 - DateTime Struct\77 - DateTime Struct\obj\x86\Debug\77 - DateTime Struct.pdb

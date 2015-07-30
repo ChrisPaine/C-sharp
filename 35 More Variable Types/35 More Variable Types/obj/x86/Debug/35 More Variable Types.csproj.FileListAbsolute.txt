@@ -1,0 +1,8 @@
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\35 More Variable Types\35 More Variable Types\obj\x86\Debug\35 More Variable Types.csprojResolveAssemblyReference.cache
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\35 More Variable Types\35 More Variable Types\obj\x86\Debug\_35_More_Variable_Types.Form1.resources
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\35 More Variable Types\35 More Variable Types\obj\x86\Debug\_35_More_Variable_Types.Properties.Resources.resources
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\35 More Variable Types\35 More Variable Types\obj\x86\Debug\35 More Variable Types.csproj.GenerateResource.Cache
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\35 More Variable Types\35 More Variable Types\bin\Debug\35 More Variable Types.exe
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\35 More Variable Types\35 More Variable Types\bin\Debug\35 More Variable Types.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\35 More Variable Types\35 More Variable Types\obj\x86\Debug\35 More Variable Types.exe
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\35 More Variable Types\35 More Variable Types\obj\x86\Debug\35 More Variable Types.pdb

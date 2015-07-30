@@ -1,0 +1,7 @@
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\30 Abstract\30 Abstract\obj\x86\Debug\_30_Abstract.Form1.resources
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\30 Abstract\30 Abstract\obj\x86\Debug\_30_Abstract.Properties.Resources.resources
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\30 Abstract\30 Abstract\obj\x86\Debug\30 Abstract.csproj.GenerateResource.Cache
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\30 Abstract\30 Abstract\bin\Debug\30 Abstract.exe
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\30 Abstract\30 Abstract\bin\Debug\30 Abstract.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\30 Abstract\30 Abstract\obj\x86\Debug\30 Abstract.exe
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\30 Abstract\30 Abstract\obj\x86\Debug\30 Abstract.pdb

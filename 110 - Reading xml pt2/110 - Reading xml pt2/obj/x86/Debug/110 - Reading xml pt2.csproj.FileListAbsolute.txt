@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\110 - Reading xml pt2\bin\Debug\110 - Reading xml pt2.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\110 - Reading xml pt2\bin\Debug\110 - Reading xml pt2.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\110 - Reading xml pt2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\110 - Reading xml pt2\obj\x86\Debug\_110___Reading_xml_pt2.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\110 - Reading xml pt2\obj\x86\Debug\_110___Reading_xml_pt2.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\110 - Reading xml pt2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\110 - Reading xml pt2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\110 - Reading xml pt2\obj\x86\Debug\110 - Reading xml pt2.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\110 - Reading xml pt2\obj\x86\Debug\110 - Reading xml pt2.pdb

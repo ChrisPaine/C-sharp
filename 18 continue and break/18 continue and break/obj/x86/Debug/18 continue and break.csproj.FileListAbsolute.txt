@@ -1,0 +1,18 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\18 continue and break\bin\Debug\18 continue and break.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\18 continue and break\bin\Debug\18 continue and break.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\18 continue and break\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\18 continue and break\obj\x86\Debug\_18_continue_and_break.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\18 continue and break\obj\x86\Debug\_18_continue_and_break.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\18 continue and break\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\18 continue and break\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\18 continue and break\obj\x86\Debug\18 continue and break.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\18 continue and break\obj\x86\Debug\18 continue and break.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\18 continue and break\18 continue and break\obj\x86\Debug\18 continue and break.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\18 continue and break\18 continue and break\obj\x86\Debug\18 continue and break.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\18 continue and break\18 continue and break\bin\Debug\18 continue and break.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\18 continue and break\18 continue and break\bin\Debug\18 continue and break.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\18 continue and break\18 continue and break\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\18 continue and break\18 continue and break\obj\x86\Debug\_18_continue_and_break.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\18 continue and break\18 continue and break\obj\x86\Debug\_18_continue_and_break.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\18 continue and break\18 continue and break\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\18 continue and break\18 continue and break\obj\x86\Debug\GenerateResource.write.1.tlog

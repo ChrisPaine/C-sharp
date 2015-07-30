@@ -1,0 +1,18 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\90 - ProgressBar Control\bin\Debug\90 - ProgressBar Control.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\90 - ProgressBar Control\bin\Debug\90 - ProgressBar Control.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\90 - ProgressBar Control\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\90 - ProgressBar Control\obj\x86\Debug\_90___ProgressBar_Control.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\90 - ProgressBar Control\obj\x86\Debug\_90___ProgressBar_Control.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\90 - ProgressBar Control\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\90 - ProgressBar Control\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\90 - ProgressBar Control\obj\x86\Debug\90 - ProgressBar Control.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\90 - ProgressBar Control\obj\x86\Debug\90 - ProgressBar Control.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\90 - ProgressBar Control\90 - ProgressBar Control\obj\x86\Debug\90 - ProgressBar Control.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\90 - ProgressBar Control\90 - ProgressBar Control\obj\x86\Debug\90 - ProgressBar Control.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\90 - ProgressBar Control\90 - ProgressBar Control\bin\Debug\90 - ProgressBar Control.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\90 - ProgressBar Control\90 - ProgressBar Control\bin\Debug\90 - ProgressBar Control.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\90 - ProgressBar Control\90 - ProgressBar Control\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\90 - ProgressBar Control\90 - ProgressBar Control\obj\x86\Debug\_90___ProgressBar_Control.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\90 - ProgressBar Control\90 - ProgressBar Control\obj\x86\Debug\_90___ProgressBar_Control.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\90 - ProgressBar Control\90 - ProgressBar Control\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\90 - ProgressBar Control\90 - ProgressBar Control\obj\x86\Debug\GenerateResource.write.1.tlog

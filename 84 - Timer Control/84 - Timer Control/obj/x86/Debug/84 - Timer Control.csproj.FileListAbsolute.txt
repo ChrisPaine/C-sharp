@@ -1,0 +1,11 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\84 - Timer Control\bin\Debug\84 - Timer Control.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\84 - Timer Control\bin\Debug\84 - Timer Control.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\84 - Timer Control\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\84 - Timer Control\obj\x86\Debug\_84___Timer_Control.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\84 - Timer Control\obj\x86\Debug\_84___Timer_Control.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\84 - Timer Control\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\84 - Timer Control\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\84 - Timer Control\obj\x86\Debug\84 - Timer Control.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\84 - Timer Control\obj\x86\Debug\84 - Timer Control.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\84 - Timer Control\84 - Timer Control\obj\x86\Debug\84 - Timer Control.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\84 - Timer Control\84 - Timer Control\obj\x86\Debug\84 - Timer Control.pdb

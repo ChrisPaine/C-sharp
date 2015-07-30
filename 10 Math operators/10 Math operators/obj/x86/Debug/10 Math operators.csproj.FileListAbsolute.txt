@@ -1,0 +1,13 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\10 Math operators\bin\Debug\10 Math operators.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\10 Math operators\bin\Debug\10 Math operators.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\10 Math operators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\10 Math operators\obj\x86\Debug\_10_Math_operators.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\10 Math operators\obj\x86\Debug\_10_Math_operators.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\10 Math operators\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\10 Math operators\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\10 Math operators\obj\x86\Debug\10 Math operators.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\10 Math operators\obj\x86\Debug\10 Math operators.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\10 Math operators\10 Math operators\obj\x86\Debug\10 Math operators.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\10 Math operators\10 Math operators\obj\x86\Debug\10 Math operators.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\10 Math operators\10 Math operators\obj\x86\Debug\10 Math operators.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\10 Math operators\10 Math operators\obj\x86\Debug\10 Math operators.pdb

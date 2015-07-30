@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "153 - Ref and Out Keywords", "153 - Ref and Out Keywords\153 - Ref and Out Keywords.csproj", "{A84016E1-8139-4A1B-96C4-9807C4F8D61C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A84016E1-8139-4A1B-96C4-9807C4F8D61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84016E1-8139-4A1B-96C4-9807C4F8D61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84016E1-8139-4A1B-96C4-9807C4F8D61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84016E1-8139-4A1B-96C4-9807C4F8D61C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\32 Events\bin\Debug\32 Events.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\32 Events\bin\Debug\32 Events.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\32 Events\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\32 Events\obj\x86\Debug\_32_Events.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\32 Events\obj\x86\Debug\_32_Events.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\32 Events\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\32 Events\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\32 Events\obj\x86\Debug\32 Events.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\32 Events\obj\x86\Debug\32 Events.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\32 Events\32 Events\obj\x86\Debug\32 Events.exe
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\32 Events\32 Events\obj\x86\Debug\32 Events.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\32 Events\32 Events\bin\Debug\32 Events.exe
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\32 Events\32 Events\bin\Debug\32 Events.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\32 Events\32 Events\obj\x86\Debug\_32_Events.Form1.resources
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\32 Events\32 Events\obj\x86\Debug\_32_Events.Properties.Resources.resources
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\32 Events\32 Events\obj\x86\Debug\32 Events.csproj.GenerateResource.Cache

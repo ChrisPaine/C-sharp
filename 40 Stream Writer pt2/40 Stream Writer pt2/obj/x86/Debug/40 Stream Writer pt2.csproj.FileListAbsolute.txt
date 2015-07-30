@@ -1,0 +1,17 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\40 Stream Writer pt2\bin\Debug\40 Stream Writer pt2.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\40 Stream Writer pt2\bin\Debug\40 Stream Writer pt2.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\40 Stream Writer pt2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\40 Stream Writer pt2\obj\x86\Debug\_40_Stream_Writer_pt2.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\40 Stream Writer pt2\obj\x86\Debug\_40_Stream_Writer_pt2.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\40 Stream Writer pt2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\40 Stream Writer pt2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\40 Stream Writer pt2\obj\x86\Debug\40 Stream Writer pt2.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\40 Stream Writer pt2\obj\x86\Debug\40 Stream Writer pt2.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\40 Stream Writer pt2\40 Stream Writer pt2\obj\x86\Debug\40 Stream Writer pt2.exe
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\40 Stream Writer pt2\40 Stream Writer pt2\obj\x86\Debug\40 Stream Writer pt2.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\40 Stream Writer pt2\40 Stream Writer pt2\bin\Debug\40 Stream Writer pt2.exe
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\40 Stream Writer pt2\40 Stream Writer pt2\bin\Debug\40 Stream Writer pt2.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\40 Stream Writer pt2\40 Stream Writer pt2\obj\x86\Debug\40 Stream Writer pt2.csprojResolveAssemblyReference.cache
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\40 Stream Writer pt2\40 Stream Writer pt2\obj\x86\Debug\_40_Stream_Writer_pt2.Form1.resources
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\40 Stream Writer pt2\40 Stream Writer pt2\obj\x86\Debug\_40_Stream_Writer_pt2.Properties.Resources.resources
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\40 Stream Writer pt2\40 Stream Writer pt2\obj\x86\Debug\40 Stream Writer pt2.csproj.GenerateResource.Cache

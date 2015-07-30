@@ -1,0 +1,16 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\34 OpenFileDialogs\bin\Debug\34 OpenFileDialogs.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\34 OpenFileDialogs\bin\Debug\34 OpenFileDialogs.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\34 OpenFileDialogs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\34 OpenFileDialogs\obj\x86\Debug\_34_OpenFileDialogs.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\34 OpenFileDialogs\obj\x86\Debug\_34_OpenFileDialogs.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\34 OpenFileDialogs\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\34 OpenFileDialogs\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\34 OpenFileDialogs\obj\x86\Debug\34 OpenFileDialogs.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\34 OpenFileDialogs\obj\x86\Debug\34 OpenFileDialogs.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\34 OpenFileDialogs\34 OpenFileDialogs\obj\x86\Debug\34 OpenFileDialogs.exe
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\34 OpenFileDialogs\34 OpenFileDialogs\obj\x86\Debug\34 OpenFileDialogs.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\34 OpenFileDialogs\34 OpenFileDialogs\bin\Debug\34 OpenFileDialogs.exe
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\34 OpenFileDialogs\34 OpenFileDialogs\bin\Debug\34 OpenFileDialogs.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\34 OpenFileDialogs\34 OpenFileDialogs\obj\x86\Debug\_34_OpenFileDialogs.Form1.resources
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\34 OpenFileDialogs\34 OpenFileDialogs\obj\x86\Debug\_34_OpenFileDialogs.Properties.Resources.resources
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\34 OpenFileDialogs\34 OpenFileDialogs\obj\x86\Debug\34 OpenFileDialogs.csproj.GenerateResource.Cache

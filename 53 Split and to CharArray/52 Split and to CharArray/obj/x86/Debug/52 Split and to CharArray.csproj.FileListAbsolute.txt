@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\52 Split and to CharArray\bin\Debug\52 Split and to CharArray.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\52 Split and to CharArray\bin\Debug\52 Split and to CharArray.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\52 Split and to CharArray\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\52 Split and to CharArray\obj\x86\Debug\_52_Split_and_to_CharArray.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\52 Split and to CharArray\obj\x86\Debug\_52_Split_and_to_CharArray.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\52 Split and to CharArray\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\52 Split and to CharArray\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\52 Split and to CharArray\obj\x86\Debug\52 Split and to CharArray.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\52 Split and to CharArray\obj\x86\Debug\52 Split and to CharArray.pdb

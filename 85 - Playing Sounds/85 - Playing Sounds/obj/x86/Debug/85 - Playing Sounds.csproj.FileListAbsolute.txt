@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\85 - Playing Sounds\bin\Debug\85 - Playing Sounds.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\85 - Playing Sounds\bin\Debug\85 - Playing Sounds.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\85 - Playing Sounds\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\85 - Playing Sounds\obj\x86\Debug\_85___Playing_Sounds.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\85 - Playing Sounds\obj\x86\Debug\_85___Playing_Sounds.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\85 - Playing Sounds\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\85 - Playing Sounds\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\85 - Playing Sounds\obj\x86\Debug\85 - Playing Sounds.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\85 - Playing Sounds\obj\x86\Debug\85 - Playing Sounds.pdb

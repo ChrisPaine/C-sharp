@@ -1,0 +1,133 @@
+ Volume in drive Z has no label.
+ Volume Serial Number is CC21-EC86
+
+ Directory of Z:\CHRIS\Coding\C#\www.TheNewBoston.org
+
+09/11/2013  07:56 AM    <DIR>          .
+09/11/2013  07:56 AM    <DIR>          ..
+09/04/2013  06:24 AM    <DIR>          01 ChrisFirstProject
+09/04/2013  06:24 AM    <DIR>          04 Variables
+09/04/2013  06:24 AM    <DIR>          05 property of object using code
+09/04/2013  06:25 AM    <DIR>          06 if statements
+09/04/2013  06:25 AM    <DIR>          07 More If
+09/04/2013  06:25 AM    <DIR>          08 If more prt3
+09/04/2013  06:25 AM    <DIR>          09 Switch Statement
+09/04/2013  06:25 AM    <DIR>          10 Math operators
+09/04/2013  06:25 AM    <DIR>          101 - TreeView pt 3 image
+09/04/2013  06:25 AM    <DIR>          102 - Property Grid
+09/04/2013  06:25 AM    <DIR>          103 - Accessing All Controls pt 1
+09/04/2013  06:25 AM    <DIR>          104 - Accessing All Controls pt 2
+09/04/2013  06:25 AM    <DIR>          105 - WebBrowser Control MS pt 1
+09/04/2013  06:25 AM    <DIR>          106 - WebBrowser Control pt 2
+09/04/2013  06:26 AM    <DIR>          107 - WebBrowser Control pt 3
+09/04/2013  06:26 AM    <DIR>          108 - TrackBar and NumericUpDown Controls
+09/04/2013  06:26 AM    <DIR>          109 - Reading XML pt 1
+09/04/2013  06:26 AM    <DIR>          11 Arrays
+09/04/2013  06:26 AM    <DIR>          110 - Reading xml pt2
+09/05/2013  05:03 PM    <DIR>          111 - Editing XML File
+09/06/2013  06:26 AM    <DIR>          112 - Writing New XML file
+09/06/2013  06:26 AM    <DIR>          113 - Write Nodes to Existing XML File
+09/06/2013  06:26 AM    <DIR>          114 - Deleting a XML Node
+09/06/2013  06:26 AM    <DIR>          115 - MD5 and SHA1
+09/06/2013  06:26 AM    <DIR>          116 - TripleDES Encryption
+09/06/2013  11:20 AM    <DIR>          117 - TripleDES Decryption
+09/06/2013  11:39 AM    <DIR>          118 - Drag and Drop
+09/06/2013  11:45 AM    <DIR>          119 - Drawing Shapes
+09/04/2013  06:26 AM    <DIR>          12 Lists
+09/06/2013  11:51 AM    <DIR>          120 - Drawing More Shapes
+09/06/2013  11:57 AM    <DIR>          121 - Drawing with Pen Class pt 1
+09/06/2013  04:02 PM    <DIR>          122 - Drawing With Pen Class pt 2
+09/06/2013  04:09 PM    <DIR>          123 - Drawing Strings Text
+09/09/2013  06:24 AM    <DIR>          124 - LinearGradientBrush
+09/09/2013  06:24 AM    <DIR>          125 - Multiple Colors in a LinearGradientBrush
+09/09/2013  06:24 AM    <DIR>          126 - PathGradientBrush pt 1
+09/09/2013  06:24 AM    <DIR>          127 - PathGradientBrush pt 2
+09/09/2013  06:24 AM    <DIR>          128 - 132 Project 2 Paint Program pt 1
+09/04/2013  06:26 AM    <DIR>          13 For and foreach loop
+09/04/2013  06:26 AM    <DIR>          14 do and do while
+09/04/2013  06:26 AM    <DIR>          15 try catch and finally
+09/04/2013  06:26 AM    <DIR>          16 Methods pt 1
+09/04/2013  06:26 AM    <DIR>          17 Method pt2
+09/04/2013  06:26 AM    <DIR>          18 continue and break
+09/04/2013  06:27 AM    <DIR>          19 Overview of Namespaces and classes
+09/06/2013  05:00 PM    <DIR>          20 Constructors
+09/06/2013  05:00 PM    <DIR>          21 Access modifiers and static
+09/06/2013  05:00 PM    <DIR>          22 Overloading Methods and Enumerators
+09/04/2013  06:27 AM    <DIR>          23 Creating your own properties
+09/04/2013  06:27 AM    <DIR>          24 Throwing an exceptions
+09/04/2013  06:27 AM    <DIR>          25 Inheritance and Overloading
+09/04/2013  06:27 AM    <DIR>          26 More on inheritance and interface
+09/10/2013  04:52 PM    <DIR>          27 Indexers
+09/10/2013  04:52 PM    <DIR>          28 Structs
+09/10/2013  04:52 PM    <DIR>          29 Partial
+09/10/2013  04:52 PM    <DIR>          30 Abstract
+09/10/2013  04:52 PM    <DIR>          31 Delegates
+09/04/2013  06:27 AM    <DIR>          32 Events
+09/04/2013  06:29 AM    <DIR>          33 Ternay Operator
+09/04/2013  06:30 AM    <DIR>          34 OpenFileDialogs
+09/04/2013  06:29 AM    <DIR>          35 More Variable Types
+09/04/2013  06:30 AM    <DIR>          36 StreamReader pt1
+09/04/2013  06:30 AM    <DIR>          37 streamreader2
+09/04/2013  06:30 AM    <DIR>          38 StreamReader pt3 Writing
+09/04/2013  06:30 AM    <DIR>          39 StreamWriter pt1
+09/04/2013  06:30 AM    <DIR>          40 Stream Writer pt2
+09/04/2013  06:30 AM    <DIR>          41 Binary Reader prt1
+09/04/2013  06:30 AM    <DIR>          42 Binary Reader prt2
+09/04/2013  06:30 AM    <DIR>          43 Binary Writer
+09/04/2013  06:30 AM    <DIR>          44 SaveFileDialog
+09/04/2013  06:30 AM    <DIR>          45 Convert Class
+09/04/2013  06:30 AM    <DIR>          46 repeat of 45 Convert Class
+09/04/2013  06:30 AM    <DIR>          47 is as and casting
+09/04/2013  06:30 AM    <DIR>          48 repeat of 45 Convert Class
+09/04/2013  06:30 AM    <DIR>          49 Substrings
+09/04/2013  06:30 AM    <DIR>          50 IndexOf and Trim
+09/04/2013  06:30 AM    <DIR>          51 Remove and Replace
+09/04/2013  06:30 AM    <DIR>          52 Math Class
+09/04/2013  06:30 AM    <DIR>          53 Split and to CharArray
+09/04/2013  06:30 AM    <DIR>          54 Generating Random Numbers
+09/04/2013  06:30 AM    <DIR>          55 Generating Random String
+09/04/2013  06:30 AM    <DIR>          56 Folder Browser Dialog
+09/04/2013  06:30 AM    <DIR>          57 Directory Class prt1
+09/04/2013  06:30 AM    <DIR>          58 Directory Class prt2
+09/04/2013  06:30 AM    <DIR>          59 - Directory Class pt3
+09/04/2013  06:30 AM    <DIR>          60 - File Class pt 1
+09/04/2013  06:30 AM    <DIR>          61 - File Class pt 2
+09/04/2013  06:30 AM    <DIR>          62 - Path Class
+09/04/2013  06:30 AM    <DIR>          63 - Process Class pt 1
+09/04/2013  06:30 AM    <DIR>          64 - Process Class pt 2
+09/04/2013  06:30 AM    <DIR>          65 - Null Coalesce Operator
+09/04/2013  06:30 AM    <DIR>          66 - Bitwise Operators pt 1
+09/04/2013  06:30 AM    <DIR>          67 - Bitwise Operators pt 2
+09/04/2013  06:31 AM    <DIR>          68 - Bitwise Operators pt 3
+09/04/2013  06:31 AM    <DIR>          69 - Threading pt 1
+09/04/2013  06:31 AM    <DIR>          70 - Threading pt 2
+09/04/2013  06:31 AM    <DIR>          71 Threading pt3
+09/04/2013  06:31 AM    <DIR>          72 - WebClient pt 1 Status Log
+09/04/2013  06:31 AM    <DIR>          73 - WebClient Class pt 2 Downloading Files
+09/04/2013  06:31 AM    <DIR>          74 - 76 Project 1 Email Sender pt 1
+09/04/2013  06:31 AM    <DIR>          77 - DateTime Struct
+09/04/2013  06:31 AM    <DIR>          78 - DateTimePicker
+09/04/2013  06:31 AM    <DIR>          79 - Picture Box and Image Class
+09/04/2013  06:31 AM    <DIR>          80 - Clipboard Class
+09/04/2013  06:31 AM    <DIR>          81 - ColorDialog
+09/04/2013  06:31 AM    <DIR>          82 - Color Struct
+09/04/2013  06:31 AM    <DIR>          83 - FontDialog
+09/04/2013  06:31 AM    <DIR>          84 - Timer Control
+09/04/2013  06:31 AM    <DIR>          85 - Playing Sounds
+09/04/2013  06:31 AM    <DIR>          86 - MaskedTextBox Control
+09/04/2013  06:31 AM    <DIR>          87 - Multiple Forms1
+09/04/2013  06:31 AM    <DIR>          89 - ComboBox Control
+09/04/2013  06:31 AM    <DIR>          90 - ProgressBar Control
+09/04/2013  06:31 AM    <DIR>          91 - 94 - ListView Control pt 1
+09/04/2013  06:31 AM    <DIR>          95 - ToolStrip and StatusStrip Controls
+09/04/2013  06:31 AM    <DIR>          96 - NotifyIcon Control
+09/04/2013  06:31 AM    <DIR>          97 - Opening Files With Your App
+09/04/2013  06:31 AM    <DIR>          98 - Settings
+09/04/2013  06:31 AM    <DIR>          99 - 100 - TreeView Control pt 1
+09/11/2013  07:55 AM            12,475 C# Library.docx
+08/19/2013  06:52 AM               131 C# TheNewBoston 25 youtube.url
+09/11/2013  07:56 AM               129 dir.txt
+08/27/2013  07:40 PM                20 Status.txt
+09/05/2013  04:47 PM               260 test.xml
+               5 File(s)         13,015 bytes
+             121 Dir(s)  99,437,412,352 bytes free

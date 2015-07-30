@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\96 - NotifyIcon Control\bin\Debug\96 - NotifyIcon Control.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\96 - NotifyIcon Control\bin\Debug\96 - NotifyIcon Control.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\96 - NotifyIcon Control\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\96 - NotifyIcon Control\obj\x86\Debug\_96___NotifyIcon_Control.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\96 - NotifyIcon Control\obj\x86\Debug\_96___NotifyIcon_Control.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\96 - NotifyIcon Control\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\96 - NotifyIcon Control\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\96 - NotifyIcon Control\obj\x86\Debug\96 - NotifyIcon Control.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\96 - NotifyIcon Control\obj\x86\Debug\96 - NotifyIcon Control.pdb

@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\65 - Null Coalesce Operator\bin\Debug\65 - Null Coalesce Operator.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\65 - Null Coalesce Operator\bin\Debug\65 - Null Coalesce Operator.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\65 - Null Coalesce Operator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\65 - Null Coalesce Operator\obj\x86\Debug\_65___Null_Coalesce_Operator.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\65 - Null Coalesce Operator\obj\x86\Debug\_65___Null_Coalesce_Operator.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\65 - Null Coalesce Operator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\65 - Null Coalesce Operator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\65 - Null Coalesce Operator\obj\x86\Debug\65 - Null Coalesce Operator.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\65 - Null Coalesce Operator\obj\x86\Debug\65 - Null Coalesce Operator.pdb

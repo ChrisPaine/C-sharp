@@ -1,0 +1,20 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\16 Methods pt 1\bin\Debug\16 Methods pt 1.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\16 Methods pt 1\bin\Debug\16 Methods pt 1.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\16 Methods pt 1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\16 Methods pt 1\obj\x86\Debug\_16_Methods_pt_1.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\16 Methods pt 1\obj\x86\Debug\_16_Methods_pt_1.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\16 Methods pt 1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\16 Methods pt 1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\16 Methods pt 1\obj\x86\Debug\16 Methods pt 1.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\16 Methods pt 1\obj\x86\Debug\16 Methods pt 1.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\16 Methods pt 1\16 Methods pt 1\obj\x86\Debug\16 Methods pt 1.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\16 Methods pt 1\16 Methods pt 1\obj\x86\Debug\16 Methods pt 1.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\16 Methods pt 1\16 Methods pt 1\obj\x86\Debug\16 Methods pt 1.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\16 Methods pt 1\16 Methods pt 1\obj\x86\Debug\16 Methods pt 1.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\16 Methods pt 1\16 Methods pt 1\bin\Debug\16 Methods pt 1.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\16 Methods pt 1\16 Methods pt 1\bin\Debug\16 Methods pt 1.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\16 Methods pt 1\16 Methods pt 1\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\16 Methods pt 1\16 Methods pt 1\obj\x86\Debug\_16_Methods_pt_1.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\16 Methods pt 1\16 Methods pt 1\obj\x86\Debug\_16_Methods_pt_1.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\16 Methods pt 1\16 Methods pt 1\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\16 Methods pt 1\16 Methods pt 1\obj\x86\Debug\GenerateResource.write.1.tlog

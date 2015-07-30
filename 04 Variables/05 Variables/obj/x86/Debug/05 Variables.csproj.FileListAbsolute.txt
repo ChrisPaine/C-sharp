@@ -1,0 +1,19 @@
+\\DRIVEJ\Work\CHRIS\Coding\C#\04 Variables\05 Variables\bin\Debug\05 Variables.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\04 Variables\05 Variables\bin\Debug\05 Variables.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\04 Variables\05 Variables\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\04 Variables\05 Variables\obj\x86\Debug\Variables.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\04 Variables\05 Variables\obj\x86\Debug\Variables.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\04 Variables\05 Variables\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\04 Variables\05 Variables\obj\x86\Debug\GenerateResource.write.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\04 Variables\05 Variables\obj\x86\Debug\05 Variables.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\04 Variables\05 Variables\obj\x86\Debug\05 Variables.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\04 Variables\05 Variables\obj\x86\Debug\05 Variables.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\04 Variables\05 Variables\obj\x86\Debug\05 Variables.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\04 Variables\05 Variables\obj\x86\Debug\05 Variables.exe
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\04 Variables\05 Variables\obj\x86\Debug\05 Variables.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\04 Variables\05 Variables\bin\Debug\05 Variables.exe
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\04 Variables\05 Variables\bin\Debug\05 Variables.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\04 Variables\05 Variables\obj\x86\Debug\05 Variables.csprojResolveAssemblyReference.cache
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\04 Variables\05 Variables\obj\x86\Debug\Variables.Form1.resources
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\04 Variables\05 Variables\obj\x86\Debug\Variables.Properties.Resources.resources
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\04 Variables\05 Variables\obj\x86\Debug\05 Variables.csproj.GenerateResource.Cache

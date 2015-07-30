@@ -1,0 +1,11 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\79 - Picture Box and Image Class\bin\Debug\79 - Picture Box and Image Class.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\79 - Picture Box and Image Class\bin\Debug\79 - Picture Box and Image Class.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\79 - Picture Box and Image Class\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\79 - Picture Box and Image Class\obj\x86\Debug\_79___Picture_Box_and_Image_Class.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\79 - Picture Box and Image Class\obj\x86\Debug\_79___Picture_Box_and_Image_Class.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\79 - Picture Box and Image Class\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\79 - Picture Box and Image Class\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\79 - Picture Box and Image Class\obj\x86\Debug\79 - Picture Box and Image Class.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\79 - Picture Box and Image Class\obj\x86\Debug\79 - Picture Box and Image Class.pdb
+\\Drivej\Work\CHRIS\Coding\C#\www.TheNewBoston.org\79 - Picture Box and Image Class\79 - Picture Box and Image Class\obj\x86\Debug\79 - Picture Box and Image Class.exe
+\\Drivej\Work\CHRIS\Coding\C#\www.TheNewBoston.org\79 - Picture Box and Image Class\79 - Picture Box and Image Class\obj\x86\Debug\79 - Picture Box and Image Class.pdb

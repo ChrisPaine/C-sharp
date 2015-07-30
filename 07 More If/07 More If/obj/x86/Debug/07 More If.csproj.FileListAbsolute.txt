@@ -1,0 +1,18 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\07 More If\bin\Debug\07 More If.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\07 More If\bin\Debug\07 More If.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\07 More If\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\07 More If\obj\x86\Debug\_07_More_If.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\07 More If\obj\x86\Debug\_07_More_If.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\07 More If\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\07 More If\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\07 More If\obj\x86\Debug\07 More If.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\07 More If\obj\x86\Debug\07 More If.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\07 More If\07 More If\obj\x86\Debug\07 More If.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\07 More If\07 More If\obj\x86\Debug\07 More If.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\07 More If\07 More If\bin\Debug\07 More If.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\07 More If\07 More If\bin\Debug\07 More If.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\07 More If\07 More If\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\07 More If\07 More If\obj\x86\Debug\_07_More_If.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\07 More If\07 More If\obj\x86\Debug\_07_More_If.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\07 More If\07 More If\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\07 More If\07 More If\obj\x86\Debug\GenerateResource.write.1.tlog

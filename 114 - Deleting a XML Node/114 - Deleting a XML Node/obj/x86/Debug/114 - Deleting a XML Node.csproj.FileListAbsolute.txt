@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\114 - Deleting a XML Node\bin\Debug\114 - Deleting a XML Node.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\114 - Deleting a XML Node\bin\Debug\114 - Deleting a XML Node.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\114 - Deleting a XML Node\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\114 - Deleting a XML Node\obj\x86\Debug\_114___Deleting_a_XML_Node.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\114 - Deleting a XML Node\obj\x86\Debug\_114___Deleting_a_XML_Node.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\114 - Deleting a XML Node\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\114 - Deleting a XML Node\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\114 - Deleting a XML Node\obj\x86\Debug\114 - Deleting a XML Node.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\114 - Deleting a XML Node\obj\x86\Debug\114 - Deleting a XML Node.pdb

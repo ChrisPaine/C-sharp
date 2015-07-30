@@ -1,0 +1,9 @@
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\167 - IEnumerable and Yield Return\167 - IEnumerable and Yield Return\bin\Debug\167 - IEnumerable and Yield Return.exe.config
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\167 - IEnumerable and Yield Return\167 - IEnumerable and Yield Return\bin\Debug\167 - IEnumerable and Yield Return.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\167 - IEnumerable and Yield Return\167 - IEnumerable and Yield Return\bin\Debug\167 - IEnumerable and Yield Return.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\167 - IEnumerable and Yield Return\167 - IEnumerable and Yield Return\obj\Debug\167 - IEnumerable and Yield Return.csprojResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\167 - IEnumerable and Yield Return\167 - IEnumerable and Yield Return\obj\Debug\_167___IEnumerable_and_Yield_Return.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\167 - IEnumerable and Yield Return\167 - IEnumerable and Yield Return\obj\Debug\_167___IEnumerable_and_Yield_Return.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\167 - IEnumerable and Yield Return\167 - IEnumerable and Yield Return\obj\Debug\167 - IEnumerable and Yield Return.csproj.GenerateResource.Cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\167 - IEnumerable and Yield Return\167 - IEnumerable and Yield Return\obj\Debug\167 - IEnumerable and Yield Return.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\167 - IEnumerable and Yield Return\167 - IEnumerable and Yield Return\obj\Debug\167 - IEnumerable and Yield Return.pdb

@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\78 - DateTimePicker\bin\Debug\78 - DateTimePicker.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\78 - DateTimePicker\bin\Debug\78 - DateTimePicker.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\78 - DateTimePicker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\78 - DateTimePicker\obj\x86\Debug\_78___DateTimePicker.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\78 - DateTimePicker\obj\x86\Debug\_78___DateTimePicker.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\78 - DateTimePicker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\78 - DateTimePicker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\78 - DateTimePicker\obj\x86\Debug\78 - DateTimePicker.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\78 - DateTimePicker\obj\x86\Debug\78 - DateTimePicker.pdb

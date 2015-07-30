@@ -1,0 +1,18 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\09 Switch Statement\bin\Debug\09 Switch Statement.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\09 Switch Statement\bin\Debug\09 Switch Statement.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\09 Switch Statement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\09 Switch Statement\obj\x86\Debug\_09_Switch_Statement.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\09 Switch Statement\obj\x86\Debug\_09_Switch_Statement.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\09 Switch Statement\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\09 Switch Statement\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\09 Switch Statement\obj\x86\Debug\09 Switch Statement.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\09 Switch Statement\obj\x86\Debug\09 Switch Statement.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\09 Switch Statement\09 Switch Statement\obj\x86\Debug\09 Switch Statement.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\09 Switch Statement\09 Switch Statement\obj\x86\Debug\09 Switch Statement.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\09 Switch Statement\09 Switch Statement\bin\Debug\09 Switch Statement.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\09 Switch Statement\09 Switch Statement\bin\Debug\09 Switch Statement.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\09 Switch Statement\09 Switch Statement\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\09 Switch Statement\09 Switch Statement\obj\x86\Debug\_09_Switch_Statement.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\09 Switch Statement\09 Switch Statement\obj\x86\Debug\_09_Switch_Statement.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\09 Switch Statement\09 Switch Statement\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\09 Switch Statement\09 Switch Statement\obj\x86\Debug\GenerateResource.write.1.tlog

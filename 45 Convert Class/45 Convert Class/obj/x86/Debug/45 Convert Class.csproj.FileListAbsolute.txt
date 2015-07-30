@@ -1,0 +1,11 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\45 Convert Class\bin\Debug\45 Convert Class.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\45 Convert Class\bin\Debug\45 Convert Class.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\45 Convert Class\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\45 Convert Class\obj\x86\Debug\_45_Convert_Class.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\45 Convert Class\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\45 Convert Class\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\45 Convert Class\obj\x86\Debug\45 Convert Class.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\45 Convert Class\obj\x86\Debug\45 Convert Class.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\45 Convert Class\obj\x86\Debug\_45_Convert_Class.MyVersion.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\45 Convert Class\45 Convert Class\obj\x86\Debug\45 Convert Class.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\45 Convert Class\45 Convert Class\obj\x86\Debug\45 Convert Class.pdb

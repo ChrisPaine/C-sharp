@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\95 - ToolStrip and StatusStrip Controls\bin\Debug\95 - ToolStrip and StatusStrip Controls.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\95 - ToolStrip and StatusStrip Controls\bin\Debug\95 - ToolStrip and StatusStrip Controls.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\95 - ToolStrip and StatusStrip Controls\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\95 - ToolStrip and StatusStrip Controls\obj\x86\Debug\_95___ToolStrip_and_StatusStrip_Controls.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\95 - ToolStrip and StatusStrip Controls\obj\x86\Debug\_95___ToolStrip_and_StatusStrip_Controls.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\95 - ToolStrip and StatusStrip Controls\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\95 - ToolStrip and StatusStrip Controls\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\95 - ToolStrip and StatusStrip Controls\obj\x86\Debug\95 - ToolStrip and StatusStrip Controls.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\95 - ToolStrip and StatusStrip Controls\obj\x86\Debug\95 - ToolStrip and StatusStrip Controls.pdb

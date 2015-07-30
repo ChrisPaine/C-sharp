@@ -1,0 +1,13 @@
+C:\Users\Chris\Desktop\C#\23 Creating your own properties\23 Creating your own properties\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\C#\23 Creating your own properties\23 Creating your own properties\obj\x86\Debug\_23_Creating_your_own_properties.Form1.resources
+C:\Users\Chris\Desktop\C#\23 Creating your own properties\23 Creating your own properties\obj\x86\Debug\_23_Creating_your_own_properties.Properties.Resources.resources
+C:\Users\Chris\Desktop\C#\23 Creating your own properties\23 Creating your own properties\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\Desktop\C#\23 Creating your own properties\23 Creating your own properties\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\Desktop\C#\23 Creating your own properties\23 Creating your own properties\bin\Debug\23 Creating your own properties.exe
+C:\Users\Chris\Desktop\C#\23 Creating your own properties\23 Creating your own properties\bin\Debug\23 Creating your own properties.pdb
+C:\Users\Chris\Desktop\C#\23 Creating your own properties\23 Creating your own properties\obj\x86\Debug\23 Creating your own properties.exe
+C:\Users\Chris\Desktop\C#\23 Creating your own properties\23 Creating your own properties\obj\x86\Debug\23 Creating your own properties.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\23 Creating your own properties\23 Creating your own properties\obj\x86\Debug\23 Creating your own properties.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\23 Creating your own properties\23 Creating your own properties\obj\x86\Debug\23 Creating your own properties.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\23 Creating your own properties\23 Creating your own properties\obj\x86\Debug\23 Creating your own properties.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\23 Creating your own properties\23 Creating your own properties\obj\x86\Debug\23 Creating your own properties.pdb

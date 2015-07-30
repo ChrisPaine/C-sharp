@@ -1,0 +1,18 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\74 - Project 1 Email Sender pt 1\bin\Debug\74 - Project 1 Email Sender pt 1.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\74 - Project 1 Email Sender pt 1\bin\Debug\74 - Project 1 Email Sender pt 1.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\74 - Project 1 Email Sender pt 1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\74 - Project 1 Email Sender pt 1\obj\x86\Debug\_74___Project_1_Email_Sender_pt_1.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\74 - Project 1 Email Sender pt 1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\74 - Project 1 Email Sender pt 1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\74 - Project 1 Email Sender pt 1\obj\x86\Debug\74 - Project 1 Email Sender pt 1.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\74 - Project 1 Email Sender pt 1\obj\x86\Debug\74 - Project 1 Email Sender pt 1.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\74 - Project 1 Email Sender pt 1\obj\x86\Debug\_74___Project_1_Email_Sender_pt_1.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\74 - Project 1 Email Sender pt 1\74 - Project 1 Email Sender pt 1\obj\x86\Debug\74 - Project 1 Email Sender pt 1.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\74 - Project 1 Email Sender pt 1\74 - Project 1 Email Sender pt 1\obj\x86\Debug\74 - Project 1 Email Sender pt 1.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\74 - Project 1 Email Sender pt 1\74 - Project 1 Email Sender pt 1\bin\Debug\74 - Project 1 Email Sender pt 1.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\74 - Project 1 Email Sender pt 1\74 - Project 1 Email Sender pt 1\bin\Debug\74 - Project 1 Email Sender pt 1.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\74 - Project 1 Email Sender pt 1\74 - Project 1 Email Sender pt 1\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\74 - Project 1 Email Sender pt 1\74 - Project 1 Email Sender pt 1\obj\x86\Debug\_74___Project_1_Email_Sender_pt_1.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\74 - Project 1 Email Sender pt 1\74 - Project 1 Email Sender pt 1\obj\x86\Debug\_74___Project_1_Email_Sender_pt_1.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\74 - Project 1 Email Sender pt 1\74 - Project 1 Email Sender pt 1\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\74 - Project 1 Email Sender pt 1\74 - Project 1 Email Sender pt 1\obj\x86\Debug\GenerateResource.write.1.tlog

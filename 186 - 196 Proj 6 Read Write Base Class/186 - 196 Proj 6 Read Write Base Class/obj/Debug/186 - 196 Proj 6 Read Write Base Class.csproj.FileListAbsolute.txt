@@ -1,0 +1,5 @@
+C:\Users\cpaine\Desktop\Home projects\186 - 196 Proj 6 Read Write Base Class\186 - 196 Proj 6 Read Write Base Class\bin\Debug\186 - 196 Proj 6 Read Write Base Class.exe.config
+C:\Users\cpaine\Desktop\Home projects\186 - 196 Proj 6 Read Write Base Class\186 - 196 Proj 6 Read Write Base Class\obj\Debug\186 - 196 Proj 6 Read Write Base Class.csprojResolveAssemblyReference.cache
+C:\Users\cpaine\Desktop\Home projects\186 - 196 Proj 6 Read Write Base Class\186 - 196 Proj 6 Read Write Base Class\obj\Debug\ClassIO.Form1.resources
+C:\Users\cpaine\Desktop\Home projects\186 - 196 Proj 6 Read Write Base Class\186 - 196 Proj 6 Read Write Base Class\obj\Debug\ClassIO.Properties.Resources.resources
+C:\Users\cpaine\Desktop\Home projects\186 - 196 Proj 6 Read Write Base Class\186 - 196 Proj 6 Read Write Base Class\obj\Debug\186 - 196 Proj 6 Read Write Base Class.csproj.GenerateResource.Cache

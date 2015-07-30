@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\83 - FontDialog\bin\Debug\83 - FontDialog.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\83 - FontDialog\bin\Debug\83 - FontDialog.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\83 - FontDialog\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\83 - FontDialog\obj\x86\Debug\_83___FontDialog.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\83 - FontDialog\obj\x86\Debug\_83___FontDialog.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\83 - FontDialog\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\83 - FontDialog\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\83 - FontDialog\obj\x86\Debug\83 - FontDialog.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\83 - FontDialog\obj\x86\Debug\83 - FontDialog.pdb

@@ -1,0 +1,20 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\11 Arrays\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\11 Arrays\obj\x86\Debug\_11_Arrays.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\11 Arrays\obj\x86\Debug\_11_Arrays.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\11 Arrays\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\11 Arrays\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\11 Arrays\bin\Debug\11 Arrays.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\11 Arrays\bin\Debug\11 Arrays.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\11 Arrays\obj\x86\Debug\11 Arrays.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\11 Arrays\obj\x86\Debug\11 Arrays.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\11 Arrays\11 Arrays\obj\x86\Debug\11 Arrays.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\11 Arrays\11 Arrays\obj\x86\Debug\11 Arrays.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\11 Arrays\11 Arrays\obj\x86\Debug\11 Arrays.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\11 Arrays\11 Arrays\obj\x86\Debug\11 Arrays.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\11 Arrays\11 Arrays\bin\Debug\11 Arrays.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\11 Arrays\11 Arrays\bin\Debug\11 Arrays.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\11 Arrays\11 Arrays\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\11 Arrays\11 Arrays\obj\x86\Debug\_11_Arrays.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\11 Arrays\11 Arrays\obj\x86\Debug\_11_Arrays.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\11 Arrays\11 Arrays\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\11 Arrays\11 Arrays\obj\x86\Debug\GenerateResource.write.1.tlog

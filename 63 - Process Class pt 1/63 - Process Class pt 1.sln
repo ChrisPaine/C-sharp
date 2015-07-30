@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "63 - Process Class pt 1", "63 - Process Class pt 1\63 - Process Class pt 1.csproj", "{7224C6E4-E3CA-42FD-85DC-EEA1E3F695FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7224C6E4-E3CA-42FD-85DC-EEA1E3F695FC}.Debug|x86.ActiveCfg = Debug|x86
+		{7224C6E4-E3CA-42FD-85DC-EEA1E3F695FC}.Debug|x86.Build.0 = Debug|x86
+		{7224C6E4-E3CA-42FD-85DC-EEA1E3F695FC}.Release|x86.ActiveCfg = Release|x86
+		{7224C6E4-E3CA-42FD-85DC-EEA1E3F695FC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

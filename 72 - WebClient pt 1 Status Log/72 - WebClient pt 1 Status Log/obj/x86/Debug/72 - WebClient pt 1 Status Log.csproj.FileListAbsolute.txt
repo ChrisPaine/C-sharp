@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\72 - WebClient pt 1 Status Log\bin\Debug\72 - WebClient pt 1 Status Log.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\72 - WebClient pt 1 Status Log\bin\Debug\72 - WebClient pt 1 Status Log.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\72 - WebClient pt 1 Status Log\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\72 - WebClient pt 1 Status Log\obj\x86\Debug\_72___WebClient_pt_1_Status_Log.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\72 - WebClient pt 1 Status Log\obj\x86\Debug\_72___WebClient_pt_1_Status_Log.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\72 - WebClient pt 1 Status Log\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\72 - WebClient pt 1 Status Log\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\72 - WebClient pt 1 Status Log\obj\x86\Debug\72 - WebClient pt 1 Status Log.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\72 - WebClient pt 1 Status Log\obj\x86\Debug\72 - WebClient pt 1 Status Log.pdb

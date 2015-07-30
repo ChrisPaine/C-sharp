@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\81 - ColorDialog\bin\Debug\81 - ColorDialog.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\81 - ColorDialog\bin\Debug\81 - ColorDialog.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\81 - ColorDialog\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\81 - ColorDialog\obj\x86\Debug\_81___ColorDialog.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\81 - ColorDialog\obj\x86\Debug\_81___ColorDialog.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\81 - ColorDialog\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\81 - ColorDialog\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\81 - ColorDialog\obj\x86\Debug\81 - ColorDialog.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\81 - ColorDialog\obj\x86\Debug\81 - ColorDialog.pdb

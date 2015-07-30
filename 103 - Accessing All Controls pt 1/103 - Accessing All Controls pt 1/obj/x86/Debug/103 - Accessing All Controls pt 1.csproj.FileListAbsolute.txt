@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\103 - Accessing All Controls pt 1\bin\Debug\103 - Accessing All Controls pt 1.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\103 - Accessing All Controls pt 1\bin\Debug\103 - Accessing All Controls pt 1.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\103 - Accessing All Controls pt 1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\103 - Accessing All Controls pt 1\obj\x86\Debug\_103___Accessing_All_Controls_pt_1.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\103 - Accessing All Controls pt 1\obj\x86\Debug\_103___Accessing_All_Controls_pt_1.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\103 - Accessing All Controls pt 1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\103 - Accessing All Controls pt 1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\103 - Accessing All Controls pt 1\obj\x86\Debug\103 - Accessing All Controls pt 1.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\103 - Accessing All Controls pt 1\obj\x86\Debug\103 - Accessing All Controls pt 1.pdb

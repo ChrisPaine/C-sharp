@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\49 Substrings\bin\Debug\49 Substrings.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\49 Substrings\bin\Debug\49 Substrings.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\49 Substrings\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\49 Substrings\obj\x86\Debug\_49_Substrings.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\49 Substrings\obj\x86\Debug\_49_Substrings.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\49 Substrings\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\49 Substrings\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\49 Substrings\obj\x86\Debug\49 Substrings.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\49 Substrings\obj\x86\Debug\49 Substrings.pdb

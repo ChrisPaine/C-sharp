@@ -1,0 +1,7 @@
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\28 Structs\28 Structs\obj\x86\Release\_28_Structs.Form1.resources
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\28 Structs\28 Structs\obj\x86\Release\_28_Structs.Properties.Resources.resources
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\28 Structs\28 Structs\obj\x86\Release\28 Structs.csproj.GenerateResource.Cache
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\28 Structs\28 Structs\bin\Release\28 Structs.exe
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\28 Structs\28 Structs\bin\Release\28 Structs.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\28 Structs\28 Structs\obj\x86\Release\28 Structs.exe
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\28 Structs\28 Structs\obj\x86\Release\28 Structs.pdb

@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\117 - TripleDES Decryption\bin\Debug\117 - TripleDES Decryption.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\117 - TripleDES Decryption\bin\Debug\117 - TripleDES Decryption.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\117 - TripleDES Decryption\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\117 - TripleDES Decryption\obj\x86\Debug\_117___TripleDES_Decryption.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\117 - TripleDES Decryption\obj\x86\Debug\_117___TripleDES_Decryption.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\117 - TripleDES Decryption\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\117 - TripleDES Decryption\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\117 - TripleDES Decryption\obj\x86\Debug\117 - TripleDES Decryption.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\117 - TripleDES Decryption\obj\x86\Debug\117 - TripleDES Decryption.pdb

@@ -1,0 +1,27 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\05 property of object using code\bin\Debug\05 property of object using code.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\05 property of object using code\bin\Debug\05 property of object using code.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\05 property of object using code\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\05 property of object using code\obj\x86\Debug\_05_property_of_object_using_code.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\05 property of object using code\obj\x86\Debug\_05_property_of_object_using_code.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\05 property of object using code\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\05 property of object using code\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\05 property of object using code\obj\x86\Debug\05 property of object using code.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\05 property of object using code\obj\x86\Debug\05 property of object using code.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\05 property of object using code\05 property of object using code\obj\x86\Debug\05 property of object using code.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\05 property of object using code\05 property of object using code\obj\x86\Debug\05 property of object using code.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\05 property of object using code\05 property of object using code\bin\Debug\05 property of object using code.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\05 property of object using code\05 property of object using code\bin\Debug\05 property of object using code.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\05 property of object using code\05 property of object using code\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\05 property of object using code\05 property of object using code\obj\x86\Debug\_05_property_of_object_using_code.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\05 property of object using code\05 property of object using code\obj\x86\Debug\_05_property_of_object_using_code.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\05 property of object using code\05 property of object using code\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\05 property of object using code\05 property of object using code\obj\x86\Debug\GenerateResource.write.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\05 property of object using code\05 property of object using code\obj\x86\Debug\05 property of object using code.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\05 property of object using code\05 property of object using code\obj\x86\Debug\05 property of object using code.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\05 property of object using code\05 property of object using code\bin\Debug\05 property of object using code.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\05 property of object using code\05 property of object using code\bin\Debug\05 property of object using code.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\05 property of object using code\05 property of object using code\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\05 property of object using code\05 property of object using code\obj\x86\Debug\_05_property_of_object_using_code.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\05 property of object using code\05 property of object using code\obj\x86\Debug\_05_property_of_object_using_code.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\05 property of object using code\05 property of object using code\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\05 property of object using code\05 property of object using code\obj\x86\Debug\GenerateResource.write.1.tlog

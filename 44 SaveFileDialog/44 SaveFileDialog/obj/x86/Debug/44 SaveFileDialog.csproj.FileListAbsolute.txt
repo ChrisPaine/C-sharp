@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\44 SaveFileDialog\bin\Debug\44 SaveFileDialog.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\44 SaveFileDialog\bin\Debug\44 SaveFileDialog.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\44 SaveFileDialog\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\44 SaveFileDialog\obj\x86\Debug\_44_SaveFileDialog.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\44 SaveFileDialog\obj\x86\Debug\_44_SaveFileDialog.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\44 SaveFileDialog\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\44 SaveFileDialog\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\44 SaveFileDialog\obj\x86\Debug\44 SaveFileDialog.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\44 SaveFileDialog\obj\x86\Debug\44 SaveFileDialog.pdb

@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\111 - Editing XML File\bin\Debug\111 - Editing XML File.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\111 - Editing XML File\bin\Debug\111 - Editing XML File.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\111 - Editing XML File\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\111 - Editing XML File\obj\x86\Debug\_111___Editing_XML_File.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\111 - Editing XML File\obj\x86\Debug\_111___Editing_XML_File.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\111 - Editing XML File\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\111 - Editing XML File\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\111 - Editing XML File\obj\x86\Debug\111 - Editing XML File.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\111 - Editing XML File\obj\x86\Debug\111 - Editing XML File.pdb

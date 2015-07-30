@@ -1,0 +1,11 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\119 - Drawing Shapes\bin\Debug\119 - Drawing Shapes.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\119 - Drawing Shapes\bin\Debug\119 - Drawing Shapes.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\119 - Drawing Shapes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\119 - Drawing Shapes\obj\x86\Debug\_119___Drawing_Shapes.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\119 - Drawing Shapes\obj\x86\Debug\_119___Drawing_Shapes.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\119 - Drawing Shapes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\119 - Drawing Shapes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\119 - Drawing Shapes\obj\x86\Debug\119 - Drawing Shapes.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\119 - Drawing Shapes\obj\x86\Debug\119 - Drawing Shapes.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\119 - Drawing Shapes\119 - Drawing Shapes\obj\x86\Debug\119 - Drawing Shapes.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\119 - Drawing Shapes\119 - Drawing Shapes\obj\x86\Debug\119 - Drawing Shapes.pdb

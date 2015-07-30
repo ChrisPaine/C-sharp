@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\86 - MaskedTextBox Control\bin\Debug\86 - MaskedTextBox Control.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\86 - MaskedTextBox Control\bin\Debug\86 - MaskedTextBox Control.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\86 - MaskedTextBox Control\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\86 - MaskedTextBox Control\obj\x86\Debug\_86___MaskedTextBox_Control.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\86 - MaskedTextBox Control\obj\x86\Debug\_86___MaskedTextBox_Control.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\86 - MaskedTextBox Control\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\86 - MaskedTextBox Control\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\86 - MaskedTextBox Control\obj\x86\Debug\86 - MaskedTextBox Control.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\86 - MaskedTextBox Control\obj\x86\Debug\86 - MaskedTextBox Control.pdb

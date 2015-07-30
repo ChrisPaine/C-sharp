@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\112 - Writing New XML file\bin\Debug\112 - Writing New XML file.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\112 - Writing New XML file\bin\Debug\112 - Writing New XML file.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\112 - Writing New XML file\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\112 - Writing New XML file\obj\x86\Debug\_112___Writing_New_XML_file.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\112 - Writing New XML file\obj\x86\Debug\_112___Writing_New_XML_file.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\112 - Writing New XML file\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\112 - Writing New XML file\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\112 - Writing New XML file\obj\x86\Debug\112 - Writing New XML file.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\112 - Writing New XML file\obj\x86\Debug\112 - Writing New XML file.pdb

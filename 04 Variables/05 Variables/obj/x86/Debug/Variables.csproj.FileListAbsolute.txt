@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\Variables\bin\Debug\Variables.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\Variables\bin\Debug\Variables.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\Variables\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\Variables\obj\x86\Debug\Variables.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\Variables\obj\x86\Debug\Variables.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\Variables\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\Variables\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\Variables\obj\x86\Debug\Variables.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\Variables\obj\x86\Debug\Variables.pdb

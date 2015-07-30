@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\62 - Path Class\bin\Debug\62 - Path Class.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\62 - Path Class\bin\Debug\62 - Path Class.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\62 - Path Class\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\62 - Path Class\obj\x86\Debug\_62___Path_Class.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\62 - Path Class\obj\x86\Debug\_62___Path_Class.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\62 - Path Class\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\62 - Path Class\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\62 - Path Class\obj\x86\Debug\62 - Path Class.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\62 - Path Class\obj\x86\Debug\62 - Path Class.pdb

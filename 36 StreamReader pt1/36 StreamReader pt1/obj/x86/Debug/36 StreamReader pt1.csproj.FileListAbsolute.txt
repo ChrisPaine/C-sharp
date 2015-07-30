@@ -1,0 +1,26 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\36 StreamReader pt1\bin\Debug\36 StreamReader pt1.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\36 StreamReader pt1\bin\Debug\36 StreamReader pt1.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\36 StreamReader pt1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\36 StreamReader pt1\obj\x86\Debug\_36_StreamReader_pt1.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\36 StreamReader pt1\obj\x86\Debug\_36_StreamReader_pt1.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\36 StreamReader pt1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\36 StreamReader pt1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\36 StreamReader pt1\obj\x86\Debug\36 StreamReader pt1.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\36 StreamReader pt1\obj\x86\Debug\36 StreamReader pt1.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\36 StreamReader pt1\36 StreamReader pt1\obj\x86\Debug\36 StreamReader pt1.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\36 StreamReader pt1\36 StreamReader pt1\obj\x86\Debug\36 StreamReader pt1.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\36 StreamReader pt1\36 StreamReader pt1\bin\Debug\36 StreamReader pt1.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\36 StreamReader pt1\36 StreamReader pt1\bin\Debug\36 StreamReader pt1.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\36 StreamReader pt1\36 StreamReader pt1\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\36 StreamReader pt1\36 StreamReader pt1\obj\x86\Debug\_36_StreamReader_pt1.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\36 StreamReader pt1\36 StreamReader pt1\obj\x86\Debug\_36_StreamReader_pt1.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\36 StreamReader pt1\36 StreamReader pt1\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\36 StreamReader pt1\36 StreamReader pt1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\36 StreamReader pt1\36 StreamReader pt1\obj\x86\Debug\36 StreamReader pt1.exe
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\36 StreamReader pt1\36 StreamReader pt1\obj\x86\Debug\36 StreamReader pt1.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\36 StreamReader pt1\36 StreamReader pt1\bin\Debug\36 StreamReader pt1.exe
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\36 StreamReader pt1\36 StreamReader pt1\bin\Debug\36 StreamReader pt1.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\36 StreamReader pt1\36 StreamReader pt1\obj\x86\Debug\36 StreamReader pt1.csproj.GenerateResource.Cache
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\36 StreamReader pt1\36 StreamReader pt1\obj\x86\Debug\36 StreamReader pt1.csprojResolveAssemblyReference.cache
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\36 StreamReader pt1\36 StreamReader pt1\obj\x86\Debug\myNamespace.Form1.resources
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\36 StreamReader pt1\36 StreamReader pt1\obj\x86\Debug\myNamespace.Properties.Resources.resources

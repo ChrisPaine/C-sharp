@@ -1,0 +1,7 @@
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\29 Partial\29 Partial\obj\x86\Debug\29 Partial.csproj.GenerateResource.Cache
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\29 Partial\29 Partial\bin\Debug\29 Partial.exe
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\29 Partial\29 Partial\bin\Debug\29 Partial.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\29 Partial\29 Partial\obj\x86\Debug\YouTube.Form1.resources
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\29 Partial\29 Partial\obj\x86\Debug\YouTube.Properties.Resources.resources
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\29 Partial\29 Partial\obj\x86\Debug\29 Partial.exe
+C:\Users\cpaine\Google Drive\Coding Home\C#\www.TheNewBoston.org\29 Partial\29 Partial\obj\x86\Debug\29 Partial.pdb

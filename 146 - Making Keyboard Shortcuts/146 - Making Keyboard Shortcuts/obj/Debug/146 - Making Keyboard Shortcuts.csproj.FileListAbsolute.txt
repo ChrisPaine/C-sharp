@@ -1,0 +1,8 @@
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\146 - Making Keyboard Shortcuts\146 - Making Keyboard Shortcuts\bin\Debug\146 - Making Keyboard Shortcuts.exe.config
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\146 - Making Keyboard Shortcuts\146 - Making Keyboard Shortcuts\bin\Debug\146 - Making Keyboard Shortcuts.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\146 - Making Keyboard Shortcuts\146 - Making Keyboard Shortcuts\bin\Debug\146 - Making Keyboard Shortcuts.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\146 - Making Keyboard Shortcuts\146 - Making Keyboard Shortcuts\obj\Debug\_146___Making_Keyboard_Shortcuts.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\146 - Making Keyboard Shortcuts\146 - Making Keyboard Shortcuts\obj\Debug\_146___Making_Keyboard_Shortcuts.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\146 - Making Keyboard Shortcuts\146 - Making Keyboard Shortcuts\obj\Debug\146 - Making Keyboard Shortcuts.csproj.GenerateResource.Cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\146 - Making Keyboard Shortcuts\146 - Making Keyboard Shortcuts\obj\Debug\146 - Making Keyboard Shortcuts.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\146 - Making Keyboard Shortcuts\146 - Making Keyboard Shortcuts\obj\Debug\146 - Making Keyboard Shortcuts.pdb

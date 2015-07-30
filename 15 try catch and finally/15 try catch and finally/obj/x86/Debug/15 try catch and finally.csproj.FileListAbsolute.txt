@@ -1,0 +1,11 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\15 try catch and finally\bin\Debug\15 try catch and finally.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\15 try catch and finally\bin\Debug\15 try catch and finally.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\15 try catch and finally\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\15 try catch and finally\obj\x86\Debug\_15_try_catch_and_finally.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\15 try catch and finally\obj\x86\Debug\_15_try_catch_and_finally.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\15 try catch and finally\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\15 try catch and finally\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\15 try catch and finally\obj\x86\Debug\15 try catch and finally.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\15 try catch and finally\obj\x86\Debug\15 try catch and finally.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\15 try catch and finally\15 try catch and finally\obj\x86\Debug\15 try catch and finally.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\15 try catch and finally\15 try catch and finally\obj\x86\Debug\15 try catch and finally.pdb

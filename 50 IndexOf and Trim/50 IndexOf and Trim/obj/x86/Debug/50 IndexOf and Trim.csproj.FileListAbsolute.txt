@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\50 IndexOf and Trim\bin\Debug\50 IndexOf and Trim.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\50 IndexOf and Trim\bin\Debug\50 IndexOf and Trim.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\50 IndexOf and Trim\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\50 IndexOf and Trim\obj\x86\Debug\_50_IndexOf_and_Trim.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\50 IndexOf and Trim\obj\x86\Debug\_50_IndexOf_and_Trim.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\50 IndexOf and Trim\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\50 IndexOf and Trim\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\50 IndexOf and Trim\obj\x86\Debug\50 IndexOf and Trim.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\50 IndexOf and Trim\obj\x86\Debug\50 IndexOf and Trim.pdb

@@ -1,0 +1,11 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\06 if statements\bin\Debug\06 if statements.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\06 if statements\bin\Debug\06 if statements.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\06 if statements\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\06 if statements\obj\x86\Debug\_06_if_statements.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\06 if statements\obj\x86\Debug\_06_if_statements.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\06 if statements\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\06 if statements\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\06 if statements\obj\x86\Debug\06 if statements.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\06 if statements\obj\x86\Debug\06 if statements.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\06 if statements\06 if statements\obj\x86\Debug\06 if statements.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\06 if statements\06 if statements\obj\x86\Debug\06 if statements.pdb

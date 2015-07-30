@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\123 - Drawing Strings Text\bin\Debug\123 - Drawing Strings Text.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\123 - Drawing Strings Text\bin\Debug\123 - Drawing Strings Text.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\123 - Drawing Strings Text\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\123 - Drawing Strings Text\obj\x86\Debug\_123___Drawing_Strings_Text.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\123 - Drawing Strings Text\obj\x86\Debug\_123___Drawing_Strings_Text.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\123 - Drawing Strings Text\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\123 - Drawing Strings Text\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\123 - Drawing Strings Text\obj\x86\Debug\123 - Drawing Strings Text.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\123 - Drawing Strings Text\obj\x86\Debug\123 - Drawing Strings Text.pdb

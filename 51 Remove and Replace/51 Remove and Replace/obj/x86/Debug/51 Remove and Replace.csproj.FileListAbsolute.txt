@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\51 Remove and Replace\bin\Debug\51 Remove and Replace.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\51 Remove and Replace\bin\Debug\51 Remove and Replace.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\51 Remove and Replace\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\51 Remove and Replace\obj\x86\Debug\_51_Remove_and_Replace.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\51 Remove and Replace\obj\x86\Debug\_51_Remove_and_Replace.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\51 Remove and Replace\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\51 Remove and Replace\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\51 Remove and Replace\obj\x86\Debug\51 Remove and Replace.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\51 Remove and Replace\obj\x86\Debug\51 Remove and Replace.pdb

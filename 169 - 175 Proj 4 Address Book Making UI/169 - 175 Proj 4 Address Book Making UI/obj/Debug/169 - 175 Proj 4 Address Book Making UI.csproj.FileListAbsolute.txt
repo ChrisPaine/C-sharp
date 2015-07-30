@@ -1,0 +1,9 @@
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\169 - 175 Proj 4 Address Book Making UI\169 - 175 Proj 4 Address Book Making UI\bin\Debug\169 - 175 Proj 4 Address Book Making UI.exe.config
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\169 - 175 Proj 4 Address Book Making UI\169 - 175 Proj 4 Address Book Making UI\bin\Debug\169 - 175 Proj 4 Address Book Making UI.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\169 - 175 Proj 4 Address Book Making UI\169 - 175 Proj 4 Address Book Making UI\bin\Debug\169 - 175 Proj 4 Address Book Making UI.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\169 - 175 Proj 4 Address Book Making UI\169 - 175 Proj 4 Address Book Making UI\obj\Debug\169 - 175 Proj 4 Address Book Making UI.csprojResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\169 - 175 Proj 4 Address Book Making UI\169 - 175 Proj 4 Address Book Making UI\obj\Debug\_169___175_Proj_4_Address_Book_Making_UI.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\169 - 175 Proj 4 Address Book Making UI\169 - 175 Proj 4 Address Book Making UI\obj\Debug\_169___175_Proj_4_Address_Book_Making_UI.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\169 - 175 Proj 4 Address Book Making UI\169 - 175 Proj 4 Address Book Making UI\obj\Debug\169 - 175 Proj 4 Address Book Making UI.csproj.GenerateResource.Cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\169 - 175 Proj 4 Address Book Making UI\169 - 175 Proj 4 Address Book Making UI\obj\Debug\169 - 175 Proj 4 Address Book Making UI.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\169 - 175 Proj 4 Address Book Making UI\169 - 175 Proj 4 Address Book Making UI\obj\Debug\169 - 175 Proj 4 Address Book Making UI.pdb

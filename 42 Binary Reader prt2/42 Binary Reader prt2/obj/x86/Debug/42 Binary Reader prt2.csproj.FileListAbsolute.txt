@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\42 Binary Reader prt2\bin\Debug\42 Binary Reader prt2.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\42 Binary Reader prt2\bin\Debug\42 Binary Reader prt2.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\42 Binary Reader prt2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\42 Binary Reader prt2\obj\x86\Debug\_42_Binary_Reader_prt2.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\42 Binary Reader prt2\obj\x86\Debug\_42_Binary_Reader_prt2.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\42 Binary Reader prt2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\42 Binary Reader prt2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\42 Binary Reader prt2\obj\x86\Debug\42 Binary Reader prt2.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\42 Binary Reader prt2\obj\x86\Debug\42 Binary Reader prt2.pdb

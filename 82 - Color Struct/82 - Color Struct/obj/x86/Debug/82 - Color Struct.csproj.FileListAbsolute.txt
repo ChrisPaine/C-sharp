@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\82 - Color Struct\bin\Debug\82 - Color Struct.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\82 - Color Struct\bin\Debug\82 - Color Struct.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\82 - Color Struct\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\82 - Color Struct\obj\x86\Debug\_82___Color_Struct.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\82 - Color Struct\obj\x86\Debug\_82___Color_Struct.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\82 - Color Struct\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\82 - Color Struct\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\82 - Color Struct\obj\x86\Debug\82 - Color Struct.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\82 - Color Struct\obj\x86\Debug\82 - Color Struct.pdb

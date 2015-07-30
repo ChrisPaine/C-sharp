@@ -1,0 +1,18 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\14 do and do while\bin\Debug\14 do and do while.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\14 do and do while\bin\Debug\14 do and do while.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\14 do and do while\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\14 do and do while\obj\x86\Debug\_14_do_and_do_while.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\14 do and do while\obj\x86\Debug\_14_do_and_do_while.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\14 do and do while\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\14 do and do while\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\14 do and do while\obj\x86\Debug\14 do and do while.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\14 do and do while\obj\x86\Debug\14 do and do while.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\14 do and do while\14 do and do while\obj\x86\Debug\14 do and do while.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\14 do and do while\14 do and do while\obj\x86\Debug\14 do and do while.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\14 do and do while\14 do and do while\bin\Debug\14 do and do while.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\14 do and do while\14 do and do while\bin\Debug\14 do and do while.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\14 do and do while\14 do and do while\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\14 do and do while\14 do and do while\obj\x86\Debug\_14_do_and_do_while.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\14 do and do while\14 do and do while\obj\x86\Debug\_14_do_and_do_while.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\14 do and do while\14 do and do while\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\14 do and do while\14 do and do while\obj\x86\Debug\GenerateResource.write.1.tlog

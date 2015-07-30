@@ -1,0 +1,18 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\13 For and foreach loop\bin\Debug\13 For and foreach loop.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\13 For and foreach loop\bin\Debug\13 For and foreach loop.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\13 For and foreach loop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\13 For and foreach loop\obj\x86\Debug\_13_For_and_foreach_loop.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\13 For and foreach loop\obj\x86\Debug\_13_For_and_foreach_loop.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\13 For and foreach loop\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\13 For and foreach loop\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\13 For and foreach loop\obj\x86\Debug\13 For and foreach loop.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\13 For and foreach loop\obj\x86\Debug\13 For and foreach loop.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\13 For and foreach loop\13 For and foreach loop\obj\x86\Debug\13 For and foreach loop.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\13 For and foreach loop\13 For and foreach loop\obj\x86\Debug\13 For and foreach loop.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\13 For and foreach loop\13 For and foreach loop\bin\Debug\13 For and foreach loop.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\13 For and foreach loop\13 For and foreach loop\bin\Debug\13 For and foreach loop.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\13 For and foreach loop\13 For and foreach loop\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\13 For and foreach loop\13 For and foreach loop\obj\x86\Debug\_13_For_and_foreach_loop.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\13 For and foreach loop\13 For and foreach loop\obj\x86\Debug\_13_For_and_foreach_loop.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\13 For and foreach loop\13 For and foreach loop\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\13 For and foreach loop\13 For and foreach loop\obj\x86\Debug\GenerateResource.write.1.tlog

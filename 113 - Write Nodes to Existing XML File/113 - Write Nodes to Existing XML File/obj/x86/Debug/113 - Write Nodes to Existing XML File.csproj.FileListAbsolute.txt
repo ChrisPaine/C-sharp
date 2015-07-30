@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\113 - Write Nodes to Existing XML File\bin\Debug\113 - Write Nodes to Existing XML File.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\113 - Write Nodes to Existing XML File\bin\Debug\113 - Write Nodes to Existing XML File.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\113 - Write Nodes to Existing XML File\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\113 - Write Nodes to Existing XML File\obj\x86\Debug\_113___Write_Nodes_to_Existing_XML_File.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\113 - Write Nodes to Existing XML File\obj\x86\Debug\_113___Write_Nodes_to_Existing_XML_File.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\113 - Write Nodes to Existing XML File\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\113 - Write Nodes to Existing XML File\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\113 - Write Nodes to Existing XML File\obj\x86\Debug\113 - Write Nodes to Existing XML File.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\113 - Write Nodes to Existing XML File\obj\x86\Debug\113 - Write Nodes to Existing XML File.pdb

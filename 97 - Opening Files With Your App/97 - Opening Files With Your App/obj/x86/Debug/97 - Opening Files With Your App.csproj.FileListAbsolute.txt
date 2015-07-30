@@ -1,0 +1,8 @@
+\\DRIVEJ\Work\CHRIS\Coding\C#\97 - Opening Files With Your App\97 - Opening Files With Your App\bin\Debug\97 - Opening Files With Your App.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\97 - Opening Files With Your App\97 - Opening Files With Your App\bin\Debug\97 - Opening Files With Your App.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\97 - Opening Files With Your App\97 - Opening Files With Your App\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\97 - Opening Files With Your App\97 - Opening Files With Your App\obj\x86\Debug\_97___Opening_Files_With_Your_App.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\97 - Opening Files With Your App\97 - Opening Files With Your App\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\97 - Opening Files With Your App\97 - Opening Files With Your App\obj\x86\Debug\GenerateResource.write.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\97 - Opening Files With Your App\97 - Opening Files With Your App\obj\x86\Debug\97 - Opening Files With Your App.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\97 - Opening Files With Your App\97 - Opening Files With Your App\obj\x86\Debug\97 - Opening Files With Your App.pdb

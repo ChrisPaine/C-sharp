@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "125 - Multiple Colors in a LinearGradientBrush", "125 - Multiple Colors in a LinearGradientBrush\125 - Multiple Colors in a LinearGradientBrush.csproj", "{06F8B772-FB4B-4A7F-B20D-625FA354A79E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06F8B772-FB4B-4A7F-B20D-625FA354A79E}.Debug|x86.ActiveCfg = Debug|x86
+		{06F8B772-FB4B-4A7F-B20D-625FA354A79E}.Debug|x86.Build.0 = Debug|x86
+		{06F8B772-FB4B-4A7F-B20D-625FA354A79E}.Release|x86.ActiveCfg = Release|x86
+		{06F8B772-FB4B-4A7F-B20D-625FA354A79E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

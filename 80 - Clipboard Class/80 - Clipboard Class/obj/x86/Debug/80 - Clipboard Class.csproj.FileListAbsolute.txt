@@ -1,0 +1,9 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\80 - Clipboard Class\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\80 - Clipboard Class\obj\x86\Debug\_80___Clipboard_Class.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\80 - Clipboard Class\obj\x86\Debug\_80___Clipboard_Class.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\80 - Clipboard Class\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\80 - Clipboard Class\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\80 - Clipboard Class\bin\Debug\80 - Clipboard Class.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\80 - Clipboard Class\bin\Debug\80 - Clipboard Class.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\80 - Clipboard Class\obj\x86\Debug\80 - Clipboard Class.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\80 - Clipboard Class\obj\x86\Debug\80 - Clipboard Class.pdb

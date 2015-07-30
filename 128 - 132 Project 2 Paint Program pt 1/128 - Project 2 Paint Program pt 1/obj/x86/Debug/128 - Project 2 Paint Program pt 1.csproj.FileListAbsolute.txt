@@ -1,0 +1,25 @@
+C:\Users\cpaine\AppData\Local\Temporary Projects\128 - Project 2 Paint Program pt 1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cpaine\AppData\Local\Temporary Projects\128 - Project 2 Paint Program pt 1\obj\x86\Debug\_128___Project_2_Paint_Program_pt_1.Form1.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\128 - Project 2 Paint Program pt 1\obj\x86\Debug\_128___Project_2_Paint_Program_pt_1.Properties.Resources.resources
+C:\Users\cpaine\AppData\Local\Temporary Projects\128 - Project 2 Paint Program pt 1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\128 - Project 2 Paint Program pt 1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\AppData\Local\Temporary Projects\128 - Project 2 Paint Program pt 1\bin\Debug\128 - Project 2 Paint Program pt 1.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\128 - Project 2 Paint Program pt 1\bin\Debug\128 - Project 2 Paint Program pt 1.pdb
+C:\Users\cpaine\AppData\Local\Temporary Projects\128 - Project 2 Paint Program pt 1\obj\x86\Debug\128 - Project 2 Paint Program pt 1.exe
+C:\Users\cpaine\AppData\Local\Temporary Projects\128 - Project 2 Paint Program pt 1\obj\x86\Debug\128 - Project 2 Paint Program pt 1.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\128 - Project 2 Paint Program pt 1\128 - Project 2 Paint Program pt 1\obj\x86\Debug\128 - Project 2 Paint Program pt 1.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\128 - Project 2 Paint Program pt 1\128 - Project 2 Paint Program pt 1\obj\x86\Debug\128 - Project 2 Paint Program pt 1.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\128 - Project 2 Paint Program pt 1\128 - Project 2 Paint Program pt 1\bin\Debug\128 - Project 2 Paint Program pt 1.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\128 - Project 2 Paint Program pt 1\128 - Project 2 Paint Program pt 1\bin\Debug\128 - Project 2 Paint Program pt 1.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\128 - Project 2 Paint Program pt 1\128 - Project 2 Paint Program pt 1\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\128 - Project 2 Paint Program pt 1\128 - Project 2 Paint Program pt 1\obj\x86\Debug\_128___Project_2_Paint_Program_pt_1.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\128 - Project 2 Paint Program pt 1\128 - Project 2 Paint Program pt 1\obj\x86\Debug\_128___Project_2_Paint_Program_pt_1.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\128 - Project 2 Paint Program pt 1\128 - Project 2 Paint Program pt 1\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\128 - Project 2 Paint Program pt 1\128 - Project 2 Paint Program pt 1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cpaine\Google Drive\Coding Home\C sharp\www.TheNewBoston.org\128 - 132 Project 2 Paint Program pt 1\128 - Project 2 Paint Program pt 1\obj\x86\Debug\128 - Project 2 Paint Program pt 1.exe
+C:\Users\cpaine\Google Drive\Coding Home\C sharp\www.TheNewBoston.org\128 - 132 Project 2 Paint Program pt 1\128 - Project 2 Paint Program pt 1\obj\x86\Debug\128 - Project 2 Paint Program pt 1.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C sharp\www.TheNewBoston.org\128 - 132 Project 2 Paint Program pt 1\128 - Project 2 Paint Program pt 1\bin\Debug\128 - Project 2 Paint Program pt 1.exe
+C:\Users\cpaine\Google Drive\Coding Home\C sharp\www.TheNewBoston.org\128 - 132 Project 2 Paint Program pt 1\128 - Project 2 Paint Program pt 1\bin\Debug\128 - Project 2 Paint Program pt 1.pdb
+C:\Users\cpaine\Google Drive\Coding Home\C sharp\www.TheNewBoston.org\128 - 132 Project 2 Paint Program pt 1\128 - Project 2 Paint Program pt 1\obj\x86\Debug\_128___Project_2_Paint_Program_pt_1.Form1.resources
+C:\Users\cpaine\Google Drive\Coding Home\C sharp\www.TheNewBoston.org\128 - 132 Project 2 Paint Program pt 1\128 - Project 2 Paint Program pt 1\obj\x86\Debug\_128___Project_2_Paint_Program_pt_1.Properties.Resources.resources
+C:\Users\cpaine\Google Drive\Coding Home\C sharp\www.TheNewBoston.org\128 - 132 Project 2 Paint Program pt 1\128 - Project 2 Paint Program pt 1\obj\x86\Debug\128 - Project 2 Paint Program pt 1.csproj.GenerateResource.Cache

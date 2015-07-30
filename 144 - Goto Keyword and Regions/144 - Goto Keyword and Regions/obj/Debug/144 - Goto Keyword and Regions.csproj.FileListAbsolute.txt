@@ -1,0 +1,9 @@
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\144 - Goto Keyword and Regions\144 - Goto Keyword and Regions\bin\Debug\144 - Goto Keyword and Regions.exe.config
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\144 - Goto Keyword and Regions\144 - Goto Keyword and Regions\bin\Debug\144 - Goto Keyword and Regions.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\144 - Goto Keyword and Regions\144 - Goto Keyword and Regions\bin\Debug\144 - Goto Keyword and Regions.pdb
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\144 - Goto Keyword and Regions\144 - Goto Keyword and Regions\obj\Debug\144 - Goto Keyword and Regions.csprojResolveAssemblyReference.cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\144 - Goto Keyword and Regions\144 - Goto Keyword and Regions\obj\Debug\_144___Goto_Keyword_and_Regions.Form1.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\144 - Goto Keyword and Regions\144 - Goto Keyword and Regions\obj\Debug\_144___Goto_Keyword_and_Regions.Properties.Resources.resources
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\144 - Goto Keyword and Regions\144 - Goto Keyword and Regions\obj\Debug\144 - Goto Keyword and Regions.csproj.GenerateResource.Cache
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\144 - Goto Keyword and Regions\144 - Goto Keyword and Regions\obj\Debug\144 - Goto Keyword and Regions.exe
+\\DRIVEJ\Work\CHRIS\Coding\C#\www.TheNewBoston.org\144 - Goto Keyword and Regions\144 - Goto Keyword and Regions\obj\Debug\144 - Goto Keyword and Regions.pdb
